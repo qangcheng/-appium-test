@@ -87,7 +87,7 @@ class personal_information_page(login):
         """更换昵称"""
         self.sendKeys(self.Change_nickname_button, text="admin")
 
-    # 跟换头像用例流程
+    # 更换头像用例流程
     def Change_Avatar_Process(self, username, psw):
         """进入跟换头像入口"""
         self.psw_login(username, psw)

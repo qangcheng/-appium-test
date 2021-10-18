@@ -3,7 +3,7 @@
 """
 
 from kyb_testproject.common.desired_cadps import desired_conf
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import TimeoutException
 import logging
 from selenium.webdriver.common.by import By
 from kyb_testproject.common.common_fun import Common
@@ -75,12 +75,11 @@ class login(Common):
         logging.info('=====Check_Loginstatus===')
         self.check_narket_ad()
         time.sleep(3)
-
         try:
             # 调用原生方法和封装方法区别体现
             # self.driver.find_element(*self.my_button).click()
-            self.click(self.my_button)
-        except NoSuchElementException:
+            self.findElement(self.my_button)
+        except TimeoutException:
             logging.error("login_fail!!!!")
             self.getScreenShot('login_fail')
             return False

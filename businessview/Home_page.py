@@ -44,6 +44,7 @@ class Home_page(login):
         logging.info("====Search content succeeded===")
         self.getScreenShot("Search content succeeded")
         self.Search_swipe()
+        self.Check_Search()
 
     # 滑动两次方法封装，后续用例根据自己需求封装
     def Search_swipe(self):
