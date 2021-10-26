@@ -149,7 +149,7 @@ class Common(BaseView):
         try:
             close_button = self.driver.find_element(*self.closebutton)
         except NoSuchElementException:
-           pass
+          print("====未找到弹窗广告====")
         else:
             logging.info("====close_market_ad=====")
             # 等待元素加载方法

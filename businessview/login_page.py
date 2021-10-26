@@ -25,7 +25,7 @@ class login(Common):
     usercenter_setting_button = (By.ID, "com.tal.kaoyan:id/usercenter_setting")
     logout_button = (By.ID, "com.tal.kaoyan:id/setting_logout_text")
     tip_commit_button = (By.ID, "com.tal.kaoyan:id/tip_commit")
-    name_button = (By.ID, "com.tal.kaoyan:id/activity_usercenter_username")
+    Not_logged = (By.XPATH, "//*[@text='未登录']")
 
     # 输入账号
     def input_User(self, username):
@@ -68,10 +68,30 @@ class login(Common):
         logging.info("========Check_button========")
         self.Click_Agreement_button()
         self.Click_login_button()
-        self.check_loginstatus()
+        self.check_loginStatus()
+
+    # 用户退出登录相关流程
+    def User_logout(self):
+        self.click(self.my_button)
+        self.click(self.usercenter_setting_button)
+        self.click(self.logout_button)
+        self.click(self.tip_commit_button)
+
+    # 检查用户是否成功退出登录
+    def Check_Logout_Operation(self):
+        try:
+            self.findElement(self.Not_logged)
+        except TimeoutException:
+            logging.info("用户登出失败")
+            self.getScreenShot("用户登出失败")
+            return False
+        else:
+            logging.info("用户登出成功")
+            self.getScreenShot("用户登出录成功")
+            return True
 
     # 进入首页后登录检测弹窗是否存在，先调用关闭弹窗方法
-    def check_loginstatus(self):
+    def check_loginStatus(self):
         logging.info('=====Check_Loginstatus===')
         self.check_narket_ad()
         time.sleep(3)
@@ -94,3 +114,5 @@ if __name__ == '__main__':
     driver = desired_conf()
     L = login(driver)
     L.psw_login(username="13632721415", psw="Chuiling@950720")
+    L.User_logout()
+    L.Check_Logout_Operation()
