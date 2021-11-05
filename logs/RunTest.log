@@ -1267,3 +1267,1376 @@
 2021-10-26 15:40:05,909 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
 2021-10-26 15:40:08,917 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
 2021-10-26 15:40:08,918 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-10-27 09:05:56,617 run.py[line:42] INFO start run test case
+2021-10-27 09:05:56,623 myunit.py[line:11] INFO ====setup====
+2021-10-27 09:05:56,625 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-27 09:06:10,695 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-27 09:06:10,698 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-10-27 09:06:10,698 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-27 09:06:16,178 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-27 09:06:21,332 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-27 09:06:29,574 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-27 09:06:29,575 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-27 09:06:29,802 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-27 09:06:29,802 login_page.py[line:63] INFO username is:13632721415
+2021-10-27 09:06:29,802 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-27 09:06:30,971 login_page.py[line:65] INFO ========enter password========
+2021-10-27 09:06:30,971 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-27 09:06:30,971 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-27 09:06:31,594 login_page.py[line:68] INFO ========Check_button========
+2021-10-27 09:06:31,594 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-27 09:06:32,193 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-27 09:06:32,744 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:06:34,745 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:06:45,877 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:06:46,308 login_page.py[line:107] INFO login success!
+2021-10-27 09:06:46,309 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-27 09:06:50,432 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/mainactivity_button_calendar
+2021-10-27 09:06:50,841 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-10-27 09:06:50,841 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/imageSearch
+2021-10-27 09:06:51,435 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-10-27 09:06:52,512 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-10-27 09:06:53,822 Home_page.py[line:41] INFO ====Enter search content:ĞÄÀíÑ§====
+2021-10-27 09:06:53,822 common_fun.py[line:136] INFO get ĞÄÀíÑ§ screenshot
+2021-10-27 09:06:54,432 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-27 09:06:55,162 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-10-27 09:06:55,162 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-10-27 09:06:55,778 common_fun.py[line:72] INFO SwipeLeft
+2021-10-27 09:06:57,084 Home_page.py[line:53] INFO =====Swipe left:1´Î=====
+2021-10-27 09:06:59,085 common_fun.py[line:72] INFO SwipeLeft
+2021-10-27 09:07:00,460 Home_page.py[line:53] INFO =====Swipe left:2´Î=====
+2021-10-27 09:07:02,461 common_fun.py[line:82] INFO SwipeRight
+2021-10-27 09:07:03,854 Home_page.py[line:57] INFO =====Swipe right:1´Î=====
+2021-10-27 09:07:05,855 common_fun.py[line:136] INFO get Swipe right1´Î screenshot
+2021-10-27 09:07:06,616 common_fun.py[line:82] INFO SwipeRight
+2021-10-27 09:07:08,042 Home_page.py[line:57] INFO =====Swipe right:2´Î=====
+2021-10-27 09:07:10,042 common_fun.py[line:136] INFO get Swipe right2´Î screenshot
+2021-10-27 09:07:11,105 common_fun.py[line:92] INFO  SwipeUp
+2021-10-27 09:07:12,562 Home_page.py[line:62] INFO =====Swipe Up:1´Î=====
+2021-10-27 09:07:13,563 common_fun.py[line:136] INFO get Swipe Up1´Î screenshot
+2021-10-27 09:07:14,634 common_fun.py[line:92] INFO  SwipeUp
+2021-10-27 09:07:16,109 Home_page.py[line:62] INFO =====Swipe Up:2´Î=====
+2021-10-27 09:07:17,109 common_fun.py[line:136] INFO get Swipe Up2´Î screenshot
+2021-10-27 09:07:18,043 common_fun.py[line:102] INFO  SwipeDown
+2021-10-27 09:07:19,422 Home_page.py[line:67] INFO =====Swipe Down1´Î=====
+2021-10-27 09:07:20,423 common_fun.py[line:136] INFO get Swipe Down1´Î screenshot
+2021-10-27 09:07:21,446 common_fun.py[line:102] INFO  SwipeDown
+2021-10-27 09:07:22,769 Home_page.py[line:67] INFO =====Swipe Down2´Î=====
+2021-10-27 09:07:23,771 common_fun.py[line:136] INFO get Swipe Down2´Î screenshot
+2021-10-27 09:07:24,859 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-27 09:07:25,070 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-10-27 09:07:25,070 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-27 09:07:25,252 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-10-27 09:07:25,253 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-27 09:07:26,125 myunit.py[line:11] INFO ====setup====
+2021-10-27 09:07:26,127 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-27 09:07:38,601 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-27 09:07:38,605 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-10-27 09:07:38,605 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-27 09:07:44,087 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-27 09:07:49,269 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-27 09:07:57,783 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-27 09:07:57,783 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-27 09:07:57,982 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-27 09:07:57,982 login_page.py[line:63] INFO username is:13632721415
+2021-10-27 09:07:57,983 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-27 09:07:59,627 login_page.py[line:65] INFO ========enter password========
+2021-10-27 09:07:59,627 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-27 09:07:59,627 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-27 09:08:00,727 login_page.py[line:68] INFO ========Check_button========
+2021-10-27 09:08:00,727 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-27 09:08:01,314 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-27 09:08:01,929 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:08:03,930 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:08:15,007 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:08:15,491 login_page.py[line:107] INFO login success!
+2021-10-27 09:08:15,491 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-27 09:08:19,477 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/activity_usercenter_userheader
+2021-10-27 09:08:38,906 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-27 09:08:39,775 myunit.py[line:11] INFO ====setup====
+2021-10-27 09:08:39,777 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-27 09:08:51,020 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-27 09:08:51,023 test_login.py[line:12] INFO ==== test_login £º13632721415 ====
+2021-10-27 09:08:51,024 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-27 09:08:51,063 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-27 09:08:56,505 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-27 09:09:01,705 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-27 09:09:09,749 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-27 09:09:09,749 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-27 09:09:09,941 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-27 09:09:09,942 login_page.py[line:63] INFO username is:13632721415
+2021-10-27 09:09:09,942 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-27 09:09:11,165 login_page.py[line:65] INFO ========enter password========
+2021-10-27 09:09:11,165 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-27 09:09:11,165 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-27 09:09:12,260 login_page.py[line:68] INFO ========Check_button========
+2021-10-27 09:09:12,261 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-27 09:09:12,850 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-27 09:09:13,447 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:09:15,447 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:09:27,273 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:09:28,082 login_page.py[line:107] INFO login success!
+2021-10-27 09:09:28,082 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-27 09:09:32,217 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:09:34,217 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:09:46,090 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:09:46,778 login_page.py[line:107] INFO login success!
+2021-10-27 09:09:46,778 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-27 09:09:50,828 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-27 09:09:51,742 myunit.py[line:11] INFO ====setup====
+2021-10-27 09:09:51,744 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-27 09:10:03,086 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-27 09:10:03,088 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-10-27 09:10:03,088 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-27 09:10:03,089 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-27 09:10:08,574 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-27 09:10:13,795 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-27 09:10:21,815 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-27 09:10:21,815 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-27 09:10:22,031 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-27 09:10:22,031 login_page.py[line:63] INFO username is:5555
+2021-10-27 09:10:22,032 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-27 09:10:22,722 login_page.py[line:65] INFO ========enter password========
+2021-10-27 09:10:22,722 login_page.py[line:66] INFO password is:222222
+2021-10-27 09:10:22,722 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-27 09:10:23,352 login_page.py[line:68] INFO ========Check_button========
+2021-10-27 09:10:23,352 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-27 09:10:23,937 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-27 09:10:24,537 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:10:26,538 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:10:37,956 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:10:56,733 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-27 09:10:56,733 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-27 09:10:58,269 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:11:00,269 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:11:11,446 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:11:29,786 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-27 09:11:29,786 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-27 09:11:31,959 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-27 09:11:32,935 myunit.py[line:11] INFO ====setup====
+2021-10-27 09:11:32,937 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-27 09:11:44,430 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-27 09:11:44,432 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-10-27 09:11:44,432 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-27 09:11:44,433 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-27 09:11:49,904 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-27 09:11:55,085 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-27 09:12:03,514 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-27 09:12:03,515 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-27 09:12:03,698 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-27 09:12:03,699 login_page.py[line:63] INFO username is:3333
+2021-10-27 09:12:03,699 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-27 09:12:04,864 login_page.py[line:65] INFO ========enter password========
+2021-10-27 09:12:04,864 login_page.py[line:66] INFO password is:4444
+2021-10-27 09:12:04,864 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-27 09:12:05,476 login_page.py[line:68] INFO ========Check_button========
+2021-10-27 09:12:05,476 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-27 09:12:06,063 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-27 09:12:06,641 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:12:08,642 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:12:19,992 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:12:38,781 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-27 09:12:38,781 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-27 09:12:39,925 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:12:41,925 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:12:53,102 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:13:11,592 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-27 09:13:11,592 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-27 09:13:13,773 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-27 09:13:14,730 myunit.py[line:11] INFO ====setup====
+2021-10-27 09:13:14,732 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-27 09:13:25,998 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-27 09:13:26,002 test_login.py[line:35] INFO ==== test_logout ====
+2021-10-27 09:13:26,002 test_login.py[line:36] INFO ==== test_login £º13632721415 ====
+2021-10-27 09:13:26,003 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-27 09:13:26,003 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-27 09:13:31,501 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-27 09:13:36,705 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-27 09:13:44,801 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-27 09:13:44,802 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-27 09:13:45,010 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-27 09:13:45,010 login_page.py[line:63] INFO username is:13632721415
+2021-10-27 09:13:45,010 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-27 09:13:46,158 login_page.py[line:65] INFO ========enter password========
+2021-10-27 09:13:46,158 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-27 09:13:46,158 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-27 09:13:47,246 login_page.py[line:68] INFO ========Check_button========
+2021-10-27 09:13:47,246 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-27 09:13:47,834 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-27 09:13:48,443 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-27 09:13:50,443 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-27 09:14:02,088 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:14:02,673 login_page.py[line:107] INFO login success!
+2021-10-27 09:14:02,674 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-27 09:14:06,807 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-27 09:14:07,273 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/usercenter_setting
+2021-10-27 09:14:07,941 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/setting_logout_text
+2021-10-27 09:14:08,930 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/tip_commit
+2021-10-27 09:14:09,689 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
+2021-10-27 09:14:13,058 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
+2021-10-27 09:14:13,058 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-10-27 09:14:13,851 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-28 08:55:06,606 run.py[line:42] INFO start run test case
+2021-10-28 08:55:06,613 myunit.py[line:11] INFO ====setup====
+2021-10-28 08:55:06,617 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-28 08:55:20,456 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-28 08:55:20,459 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-10-28 08:55:20,459 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-28 08:55:25,950 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-28 08:55:31,119 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-28 08:55:39,653 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-28 08:55:39,653 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-28 08:55:39,897 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-28 08:55:39,897 login_page.py[line:63] INFO username is:13632721415
+2021-10-28 08:55:39,897 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-28 08:55:41,070 login_page.py[line:65] INFO ========enter password========
+2021-10-28 08:55:41,070 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-28 08:55:41,070 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-28 08:55:42,173 login_page.py[line:68] INFO ========Check_button========
+2021-10-28 08:55:42,173 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-28 08:55:42,741 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-28 08:55:43,294 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 08:55:45,294 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 08:55:56,611 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 08:55:57,371 login_page.py[line:107] INFO login success!
+2021-10-28 08:55:57,372 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-28 08:56:01,638 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/mainactivity_button_calendar
+2021-10-28 08:56:02,249 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-10-28 08:56:02,250 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/imageSearch
+2021-10-28 08:56:02,842 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-10-28 08:56:04,046 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-10-28 08:56:05,542 Home_page.py[line:41] INFO ====Enter search content:ĞÄÀíÑ§====
+2021-10-28 08:56:05,542 common_fun.py[line:136] INFO get ĞÄÀíÑ§ screenshot
+2021-10-28 08:56:06,176 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-28 08:56:06,367 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-10-28 08:56:06,368 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-10-28 08:56:06,971 common_fun.py[line:72] INFO SwipeLeft
+2021-10-28 08:56:08,304 Home_page.py[line:53] INFO =====Swipe left:1´Î=====
+2021-10-28 08:56:10,305 common_fun.py[line:72] INFO SwipeLeft
+2021-10-28 08:56:11,723 Home_page.py[line:53] INFO =====Swipe left:2´Î=====
+2021-10-28 08:56:13,723 common_fun.py[line:82] INFO SwipeRight
+2021-10-28 08:56:15,173 Home_page.py[line:57] INFO =====Swipe right:1´Î=====
+2021-10-28 08:56:17,173 common_fun.py[line:136] INFO get Swipe right1´Î screenshot
+2021-10-28 08:56:17,908 common_fun.py[line:82] INFO SwipeRight
+2021-10-28 08:56:19,310 Home_page.py[line:57] INFO =====Swipe right:2´Î=====
+2021-10-28 08:56:21,310 common_fun.py[line:136] INFO get Swipe right2´Î screenshot
+2021-10-28 08:56:22,354 common_fun.py[line:92] INFO  SwipeUp
+2021-10-28 08:56:23,749 Home_page.py[line:62] INFO =====Swipe Up:1´Î=====
+2021-10-28 08:56:24,749 common_fun.py[line:136] INFO get Swipe Up1´Î screenshot
+2021-10-28 08:56:25,839 common_fun.py[line:92] INFO  SwipeUp
+2021-10-28 08:56:27,279 Home_page.py[line:62] INFO =====Swipe Up:2´Î=====
+2021-10-28 08:56:28,280 common_fun.py[line:136] INFO get Swipe Up2´Î screenshot
+2021-10-28 08:56:29,218 common_fun.py[line:102] INFO  SwipeDown
+2021-10-28 08:56:30,663 Home_page.py[line:67] INFO =====Swipe Down1´Î=====
+2021-10-28 08:56:31,664 common_fun.py[line:136] INFO get Swipe Down1´Î screenshot
+2021-10-28 08:56:32,715 common_fun.py[line:102] INFO  SwipeDown
+2021-10-28 08:56:34,076 Home_page.py[line:67] INFO =====Swipe Down2´Î=====
+2021-10-28 08:56:35,076 common_fun.py[line:136] INFO get Swipe Down2´Î screenshot
+2021-10-28 08:56:36,125 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-28 08:56:36,323 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-10-28 08:56:36,323 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-28 08:56:36,444 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-10-28 08:56:36,444 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-28 08:56:37,251 myunit.py[line:11] INFO ====setup====
+2021-10-28 08:56:37,254 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-28 08:56:48,410 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-28 08:56:48,413 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-10-28 08:56:48,413 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-28 08:56:53,878 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-28 08:56:59,065 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-28 08:57:07,473 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-28 08:57:07,473 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-28 08:57:07,681 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-28 08:57:07,682 login_page.py[line:63] INFO username is:13632721415
+2021-10-28 08:57:07,682 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-28 08:57:08,834 login_page.py[line:65] INFO ========enter password========
+2021-10-28 08:57:08,834 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-28 08:57:08,834 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-28 08:57:09,441 login_page.py[line:68] INFO ========Check_button========
+2021-10-28 08:57:09,441 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-28 08:57:10,036 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-28 08:57:10,589 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 08:57:12,589 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 08:57:24,095 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 08:57:24,759 login_page.py[line:107] INFO login success!
+2021-10-28 08:57:24,760 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-28 08:57:28,697 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/activity_usercenter_userheader
+2021-10-28 08:57:48,049 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-28 08:57:48,955 myunit.py[line:11] INFO ====setup====
+2021-10-28 08:57:48,957 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-28 08:58:00,034 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-28 08:58:00,036 test_login.py[line:12] INFO ==== test_login £º13632721415 ====
+2021-10-28 08:58:00,036 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-28 08:58:00,051 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-28 08:58:05,513 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-28 08:58:10,745 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-28 08:58:18,765 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-28 08:58:18,765 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-28 08:58:18,983 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-28 08:58:18,984 login_page.py[line:63] INFO username is:13632721415
+2021-10-28 08:58:18,984 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-28 08:58:20,142 login_page.py[line:65] INFO ========enter password========
+2021-10-28 08:58:20,142 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-28 08:58:20,142 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-28 08:58:21,243 login_page.py[line:68] INFO ========Check_button========
+2021-10-28 08:58:21,243 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-28 08:58:21,824 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-28 08:58:22,420 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 08:58:24,422 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 08:58:35,879 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 08:58:36,323 login_page.py[line:107] INFO login success!
+2021-10-28 08:58:36,323 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-28 08:58:40,422 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 08:58:42,423 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 08:58:54,155 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 08:58:54,581 login_page.py[line:107] INFO login success!
+2021-10-28 08:58:54,581 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-28 08:58:58,655 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-28 08:58:59,482 myunit.py[line:11] INFO ====setup====
+2021-10-28 08:58:59,484 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-28 08:59:10,519 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-28 08:59:10,521 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-10-28 08:59:10,521 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-28 08:59:10,522 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-28 08:59:16,018 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-28 08:59:21,186 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-28 08:59:29,561 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-28 08:59:29,561 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-28 08:59:29,756 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-28 08:59:29,756 login_page.py[line:63] INFO username is:5555
+2021-10-28 08:59:29,756 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-28 08:59:30,909 login_page.py[line:65] INFO ========enter password========
+2021-10-28 08:59:30,910 login_page.py[line:66] INFO password is:222222
+2021-10-28 08:59:30,910 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-28 08:59:31,492 login_page.py[line:68] INFO ========Check_button========
+2021-10-28 08:59:31,492 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-28 08:59:32,093 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-28 08:59:32,692 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 08:59:34,693 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 08:59:46,028 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 09:00:04,678 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-28 09:00:04,678 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-28 09:00:05,903 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 09:00:07,903 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 09:00:19,062 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 09:00:37,366 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-28 09:00:37,366 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-28 09:00:39,526 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-28 09:00:40,606 myunit.py[line:11] INFO ====setup====
+2021-10-28 09:00:40,608 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-28 09:00:51,902 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-28 09:00:51,905 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-10-28 09:00:51,906 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-28 09:00:51,906 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-28 09:00:57,395 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-28 09:01:02,600 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-28 09:01:10,645 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-28 09:01:10,645 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-28 09:01:10,820 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-28 09:01:10,821 login_page.py[line:63] INFO username is:3333
+2021-10-28 09:01:10,821 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-28 09:01:11,984 login_page.py[line:65] INFO ========enter password========
+2021-10-28 09:01:11,984 login_page.py[line:66] INFO password is:4444
+2021-10-28 09:01:11,984 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-28 09:01:13,074 login_page.py[line:68] INFO ========Check_button========
+2021-10-28 09:01:13,074 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-28 09:01:13,655 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-28 09:01:14,271 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 09:01:16,272 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 09:01:27,608 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 09:01:46,333 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-28 09:01:46,333 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-28 09:01:47,453 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 09:01:49,453 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 09:02:00,605 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 09:02:18,896 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-28 09:02:18,896 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-28 09:02:20,990 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-28 09:02:21,876 myunit.py[line:11] INFO ====setup====
+2021-10-28 09:02:21,879 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-28 09:02:33,382 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-28 09:02:33,385 test_login.py[line:35] INFO ==== test_logout ====
+2021-10-28 09:02:33,385 test_login.py[line:36] INFO ==== test_login £º13632721415 ====
+2021-10-28 09:02:33,385 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-28 09:02:33,385 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-28 09:02:38,876 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-28 09:02:44,060 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-28 09:02:52,587 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-28 09:02:52,587 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-28 09:02:52,797 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-28 09:02:52,798 login_page.py[line:63] INFO username is:13632721415
+2021-10-28 09:02:52,798 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-28 09:02:53,957 login_page.py[line:65] INFO ========enter password========
+2021-10-28 09:02:53,957 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-28 09:02:53,957 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-28 09:02:54,553 login_page.py[line:68] INFO ========Check_button========
+2021-10-28 09:02:54,553 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-28 09:02:55,370 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-28 09:02:55,958 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-28 09:02:57,959 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-28 09:03:09,764 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 09:03:10,278 login_page.py[line:107] INFO login success!
+2021-10-28 09:03:10,278 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-28 09:03:14,465 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-28 09:03:15,049 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/usercenter_setting
+2021-10-28 09:03:15,749 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/setting_logout_text
+2021-10-28 09:03:16,767 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/tip_commit
+2021-10-28 09:03:18,238 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
+2021-10-28 09:03:21,506 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
+2021-10-28 09:03:21,507 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-10-28 09:03:22,262 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-29 08:44:32,983 run.py[line:42] INFO start run test case
+2021-10-29 08:44:32,989 myunit.py[line:11] INFO ====setup====
+2021-10-29 08:44:32,991 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 08:44:33,615 myunit.py[line:11] INFO ====setup====
+2021-10-29 08:44:33,617 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 08:44:33,857 myunit.py[line:11] INFO ====setup====
+2021-10-29 08:44:33,860 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 08:44:34,079 myunit.py[line:11] INFO ====setup====
+2021-10-29 08:44:34,081 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 08:44:34,318 myunit.py[line:11] INFO ====setup====
+2021-10-29 08:44:34,320 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 08:44:34,552 myunit.py[line:11] INFO ====setup====
+2021-10-29 08:44:34,555 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:25:20,478 run.py[line:42] INFO start run test case
+2021-10-29 09:25:20,478 myunit.py[line:11] INFO ====setup====
+2021-10-29 09:25:20,483 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:25:34,200 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-29 09:25:34,210 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-10-29 09:25:34,210 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-29 09:25:39,683 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-29 09:25:44,853 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-29 09:25:53,314 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-29 09:25:53,314 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-29 09:25:53,576 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-29 09:25:53,577 login_page.py[line:63] INFO username is:13632721415
+2021-10-29 09:25:53,577 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-29 09:25:54,741 login_page.py[line:65] INFO ========enter password========
+2021-10-29 09:25:54,741 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-29 09:25:54,742 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-29 09:25:55,359 login_page.py[line:68] INFO ========Check_button========
+2021-10-29 09:25:55,359 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-29 09:25:55,944 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-29 09:25:56,540 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:25:58,541 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:26:09,716 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:26:10,431 login_page.py[line:107] INFO login success!
+2021-10-29 09:26:10,431 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-29 09:26:14,367 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/mainactivity_button_calendar
+2021-10-29 09:26:14,916 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-10-29 09:26:14,916 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/imageSearch
+2021-10-29 09:26:15,506 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-10-29 09:26:16,734 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-10-29 09:26:18,632 Home_page.py[line:41] INFO ====Enter search content:ĞÄÀíÑ§====
+2021-10-29 09:26:18,632 common_fun.py[line:136] INFO get ĞÄÀíÑ§ screenshot
+2021-10-29 09:26:19,258 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-29 09:26:19,432 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-10-29 09:26:19,432 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-10-29 09:26:20,054 common_fun.py[line:72] INFO SwipeLeft
+2021-10-29 09:26:21,375 Home_page.py[line:53] INFO =====Swipe left:1´Î=====
+2021-10-29 09:26:23,376 common_fun.py[line:72] INFO SwipeLeft
+2021-10-29 09:26:24,804 Home_page.py[line:53] INFO =====Swipe left:2´Î=====
+2021-10-29 09:26:26,806 common_fun.py[line:82] INFO SwipeRight
+2021-10-29 09:26:28,202 Home_page.py[line:57] INFO =====Swipe right:1´Î=====
+2021-10-29 09:26:30,203 common_fun.py[line:136] INFO get Swipe right1´Î screenshot
+2021-10-29 09:26:30,971 common_fun.py[line:82] INFO SwipeRight
+2021-10-29 09:26:32,336 Home_page.py[line:57] INFO =====Swipe right:2´Î=====
+2021-10-29 09:26:34,336 common_fun.py[line:136] INFO get Swipe right2´Î screenshot
+2021-10-29 09:26:35,377 common_fun.py[line:92] INFO  SwipeUp
+2021-10-29 09:26:36,796 Home_page.py[line:62] INFO =====Swipe Up:1´Î=====
+2021-10-29 09:26:37,796 common_fun.py[line:136] INFO get Swipe Up1´Î screenshot
+2021-10-29 09:26:38,890 common_fun.py[line:92] INFO  SwipeUp
+2021-10-29 09:26:40,312 Home_page.py[line:62] INFO =====Swipe Up:2´Î=====
+2021-10-29 09:26:41,313 common_fun.py[line:136] INFO get Swipe Up2´Î screenshot
+2021-10-29 09:26:42,239 common_fun.py[line:102] INFO  SwipeDown
+2021-10-29 09:26:43,594 Home_page.py[line:67] INFO =====Swipe Down1´Î=====
+2021-10-29 09:26:44,595 common_fun.py[line:136] INFO get Swipe Down1´Î screenshot
+2021-10-29 09:26:45,665 common_fun.py[line:102] INFO  SwipeDown
+2021-10-29 09:26:47,045 Home_page.py[line:67] INFO =====Swipe Down2´Î=====
+2021-10-29 09:26:48,045 common_fun.py[line:136] INFO get Swipe Down2´Î screenshot
+2021-10-29 09:26:49,106 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-29 09:26:49,293 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-10-29 09:26:49,293 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-10-29 09:26:49,450 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-10-29 09:26:49,451 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-29 09:26:50,382 myunit.py[line:11] INFO ====setup====
+2021-10-29 09:26:50,385 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:27:01,907 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-29 09:27:01,909 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-10-29 09:27:01,909 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-29 09:27:07,408 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-29 09:27:12,593 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-29 09:27:20,929 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-29 09:27:20,929 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-29 09:27:21,146 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-29 09:27:21,147 login_page.py[line:63] INFO username is:13632721415
+2021-10-29 09:27:21,147 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-29 09:27:22,346 login_page.py[line:65] INFO ========enter password========
+2021-10-29 09:27:22,346 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-29 09:27:22,346 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-29 09:27:23,437 login_page.py[line:68] INFO ========Check_button========
+2021-10-29 09:27:23,437 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-29 09:27:24,019 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-29 09:27:24,601 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:27:26,601 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:27:37,712 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:27:38,184 login_page.py[line:107] INFO login success!
+2021-10-29 09:27:38,184 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-29 09:27:42,301 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/activity_usercenter_userheader
+2021-10-29 09:28:01,436 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-29 09:28:02,262 myunit.py[line:11] INFO ====setup====
+2021-10-29 09:28:02,264 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:28:14,377 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-29 09:28:14,382 test_login.py[line:12] INFO ==== test_login £º13632721415 ====
+2021-10-29 09:28:14,382 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-29 09:28:14,401 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-29 09:28:19,875 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-29 09:28:25,079 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-29 09:28:33,545 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-29 09:28:33,545 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-29 09:28:33,734 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-29 09:28:33,734 login_page.py[line:63] INFO username is:13632721415
+2021-10-29 09:28:33,734 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-29 09:28:34,891 login_page.py[line:65] INFO ========enter password========
+2021-10-29 09:28:34,891 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-29 09:28:34,891 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-29 09:28:35,507 login_page.py[line:68] INFO ========Check_button========
+2021-10-29 09:28:35,507 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-29 09:28:36,108 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-29 09:28:36,708 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:28:38,709 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:28:50,685 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:28:51,350 login_page.py[line:107] INFO login success!
+2021-10-29 09:28:51,351 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-29 09:28:55,497 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:28:57,497 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:29:09,231 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:29:09,902 login_page.py[line:107] INFO login success!
+2021-10-29 09:29:09,902 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-29 09:29:13,950 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-29 09:29:14,880 myunit.py[line:11] INFO ====setup====
+2021-10-29 09:29:14,883 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:29:26,604 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-29 09:29:26,606 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-10-29 09:29:26,607 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-29 09:29:26,607 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-29 09:29:32,112 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-29 09:29:37,275 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-29 09:29:45,733 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-29 09:29:45,733 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-29 09:29:45,923 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-29 09:29:45,923 login_page.py[line:63] INFO username is:5555
+2021-10-29 09:29:45,923 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-29 09:29:47,075 login_page.py[line:65] INFO ========enter password========
+2021-10-29 09:29:47,076 login_page.py[line:66] INFO password is:222222
+2021-10-29 09:29:47,076 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-29 09:29:48,176 login_page.py[line:68] INFO ========Check_button========
+2021-10-29 09:29:48,177 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-29 09:29:48,788 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-29 09:29:49,383 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:29:51,385 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:30:02,822 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:30:21,569 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-29 09:30:21,569 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-29 09:30:23,736 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:30:25,737 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:30:36,910 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:30:55,199 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-29 09:30:55,199 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-29 09:30:57,498 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-29 09:30:58,533 myunit.py[line:11] INFO ====setup====
+2021-10-29 09:30:58,535 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:31:10,306 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-29 09:31:10,309 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-10-29 09:31:10,309 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-29 09:31:10,310 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-29 09:31:15,809 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-29 09:31:20,991 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-29 09:31:29,526 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-29 09:31:29,526 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-29 09:31:29,746 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-29 09:31:29,746 login_page.py[line:63] INFO username is:3333
+2021-10-29 09:31:29,746 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-29 09:31:30,455 login_page.py[line:65] INFO ========enter password========
+2021-10-29 09:31:30,455 login_page.py[line:66] INFO password is:4444
+2021-10-29 09:31:30,455 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-29 09:31:31,052 login_page.py[line:68] INFO ========Check_button========
+2021-10-29 09:31:31,052 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-29 09:31:31,634 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-29 09:31:32,239 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:31:34,240 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:31:45,573 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:32:04,386 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-29 09:32:04,386 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-29 09:32:05,886 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:32:07,886 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:32:19,066 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:32:37,323 login_page.py[line:103] ERROR login_fail!!!!
+2021-10-29 09:32:37,323 common_fun.py[line:136] INFO get login_fail screenshot
+2021-10-29 09:32:39,448 myunit.py[line:15] INFO ==== TearDowm =====
+2021-10-29 09:32:40,589 myunit.py[line:11] INFO ====setup====
+2021-10-29 09:32:40,592 desired_cadps.py[line:42] INFO ....Start App.....
+2021-10-29 09:32:51,787 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-10-29 09:32:51,791 test_login.py[line:35] INFO ==== test_logout ====
+2021-10-29 09:32:51,791 test_login.py[line:36] INFO ==== test_login £º13632721415 ====
+2021-10-29 09:32:51,791 common_fun.py[line:162] INFO =====get_scv_data======
+2021-10-29 09:32:51,792 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-10-29 09:32:57,287 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-10-29 09:33:02,490 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-10-29 09:33:10,725 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-10-29 09:33:10,725 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-10-29 09:33:10,908 login_page.py[line:62] INFO ========Enter the account number========
+2021-10-29 09:33:10,908 login_page.py[line:63] INFO username is:13632721415
+2021-10-29 09:33:10,909 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-10-29 09:33:12,062 login_page.py[line:65] INFO ========enter password========
+2021-10-29 09:33:12,062 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-10-29 09:33:12,062 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-10-29 09:33:12,663 login_page.py[line:68] INFO ========Check_button========
+2021-10-29 09:33:12,663 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-10-29 09:33:13,250 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-10-29 09:33:13,847 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-10-29 09:33:15,847 common_fun.py[line:148] INFO ====check_close_button====
+2021-10-29 09:33:27,038 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:33:27,565 login_page.py[line:107] INFO login success!
+2021-10-29 09:33:27,565 common_fun.py[line:136] INFO get login_success screenshot
+2021-10-29 09:33:31,715 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-10-29 09:33:32,246 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/usercenter_setting
+2021-10-29 09:33:32,878 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/setting_logout_text
+2021-10-29 09:33:33,820 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/tip_commit
+2021-10-29 09:33:34,586 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
+2021-10-29 09:33:37,473 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
+2021-10-29 09:33:37,473 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-10-29 09:33:38,234 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-01 08:52:12,866 run.py[line:42] INFO start run test case
+2021-11-01 08:52:12,872 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:52:12,876 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:52:36,264 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:52:36,267 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:52:36,848 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:52:36,850 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:52:37,414 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:52:37,416 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:52:38,428 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:52:38,430 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:52:43,120 run.py[line:42] INFO start run test case
+2021-11-01 08:52:43,120 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:52:43,124 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:52:53,849 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-01 08:52:53,853 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-01 08:52:53,853 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-01 08:52:59,337 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-01 08:53:04,503 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-01 08:53:12,965 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-01 08:53:12,965 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-01 08:53:13,176 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-01 08:53:13,177 login_page.py[line:63] INFO username is:13632721415
+2021-11-01 08:53:13,177 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-01 08:53:14,403 login_page.py[line:65] INFO ========enter password========
+2021-11-01 08:53:14,403 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-01 08:53:14,403 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-01 08:53:15,000 login_page.py[line:68] INFO ========Check_button========
+2021-11-01 08:53:15,000 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-01 08:53:15,580 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-01 08:53:16,135 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:53:18,144 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:53:29,368 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:53:29,868 login_page.py[line:107] INFO login success!
+2021-11-01 08:53:29,869 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-01 08:53:34,023 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-01 08:53:34,845 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-01 08:53:34,845 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/imageSearch
+2021-11-01 08:53:34,927 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-01 08:53:36,015 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-01 08:53:37,274 Home_page.py[line:41] INFO ====Enter search content:ĞÄÀíÑ§====
+2021-11-01 08:53:37,274 common_fun.py[line:136] INFO get ĞÄÀíÑ§ screenshot
+2021-11-01 08:53:37,941 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-01 08:53:38,432 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-01 08:53:38,432 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-01 08:53:39,066 common_fun.py[line:72] INFO SwipeLeft
+2021-11-01 08:53:40,560 Home_page.py[line:53] INFO =====Swipe left:1´Î=====
+2021-11-01 08:53:42,560 common_fun.py[line:72] INFO SwipeLeft
+2021-11-01 08:53:43,960 Home_page.py[line:53] INFO =====Swipe left:2´Î=====
+2021-11-01 08:53:45,960 common_fun.py[line:82] INFO SwipeRight
+2021-11-01 08:53:47,322 Home_page.py[line:57] INFO =====Swipe right:1´Î=====
+2021-11-01 08:53:49,323 common_fun.py[line:136] INFO get Swipe right1´Î screenshot
+2021-11-01 08:53:50,096 common_fun.py[line:82] INFO SwipeRight
+2021-11-01 08:53:51,476 Home_page.py[line:57] INFO =====Swipe right:2´Î=====
+2021-11-01 08:53:53,476 common_fun.py[line:136] INFO get Swipe right2´Î screenshot
+2021-11-01 08:53:54,502 common_fun.py[line:92] INFO  SwipeUp
+2021-11-01 08:53:55,954 Home_page.py[line:62] INFO =====Swipe Up:1´Î=====
+2021-11-01 08:53:56,954 common_fun.py[line:136] INFO get Swipe Up1´Î screenshot
+2021-11-01 08:53:58,078 common_fun.py[line:92] INFO  SwipeUp
+2021-11-01 08:53:59,497 Home_page.py[line:62] INFO =====Swipe Up:2´Î=====
+2021-11-01 08:54:00,497 common_fun.py[line:136] INFO get Swipe Up2´Î screenshot
+2021-11-01 08:54:01,440 common_fun.py[line:102] INFO  SwipeDown
+2021-11-01 08:54:02,795 Home_page.py[line:67] INFO =====Swipe Down1´Î=====
+2021-11-01 08:54:03,796 common_fun.py[line:136] INFO get Swipe Down1´Î screenshot
+2021-11-01 08:54:04,894 common_fun.py[line:102] INFO  SwipeDown
+2021-11-01 08:54:06,225 Home_page.py[line:67] INFO =====Swipe Down2´Î=====
+2021-11-01 08:54:07,226 common_fun.py[line:136] INFO get Swipe Down2´Î screenshot
+2021-11-01 08:54:08,283 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-01 08:54:08,464 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-11-01 08:54:08,464 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-01 08:54:08,597 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-11-01 08:54:08,597 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-01 08:54:09,398 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:54:09,400 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:54:20,511 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-01 08:54:20,514 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-01 08:54:20,515 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-01 08:54:25,997 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-01 08:54:31,161 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-01 08:54:39,570 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-01 08:54:39,570 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-01 08:54:39,749 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-01 08:54:39,749 login_page.py[line:63] INFO username is:13632721415
+2021-11-01 08:54:39,749 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-01 08:54:40,956 login_page.py[line:65] INFO ========enter password========
+2021-11-01 08:54:40,956 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-01 08:54:40,956 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-01 08:54:41,556 login_page.py[line:68] INFO ========Check_button========
+2021-11-01 08:54:41,557 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-01 08:54:42,138 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-01 08:54:42,738 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:54:44,739 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:54:56,368 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:54:56,803 login_page.py[line:107] INFO login success!
+2021-11-01 08:54:56,804 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-01 08:55:00,740 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-01 08:55:19,530 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-01 08:55:20,507 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:55:20,509 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:55:31,566 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-01 08:55:31,568 test_login.py[line:12] INFO ==== test_login £º13632721415 ====
+2021-11-01 08:55:31,568 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-01 08:55:31,595 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-01 08:55:37,045 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-01 08:55:42,196 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-01 08:55:50,619 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-01 08:55:50,619 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-01 08:55:50,820 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-01 08:55:50,821 login_page.py[line:63] INFO username is:13632721415
+2021-11-01 08:55:50,821 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-01 08:55:52,025 login_page.py[line:65] INFO ========enter password========
+2021-11-01 08:55:52,025 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-01 08:55:52,025 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-01 08:55:52,614 login_page.py[line:68] INFO ========Check_button========
+2021-11-01 08:55:52,614 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-01 08:55:53,243 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-01 08:55:53,797 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:55:55,798 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:56:07,046 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:56:07,717 login_page.py[line:107] INFO login success!
+2021-11-01 08:56:07,717 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-01 08:56:11,801 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:56:13,801 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:56:25,108 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:56:25,719 login_page.py[line:107] INFO login success!
+2021-11-01 08:56:25,719 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-01 08:56:29,796 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-01 08:56:30,652 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:56:30,655 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:56:41,616 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-01 08:56:41,620 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-01 08:56:41,620 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-01 08:56:41,620 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-01 08:56:47,115 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-01 08:56:52,281 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-01 08:57:00,782 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-01 08:57:00,782 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-01 08:57:00,968 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-01 08:57:00,968 login_page.py[line:63] INFO username is:5555
+2021-11-01 08:57:00,969 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-01 08:57:02,128 login_page.py[line:65] INFO ========enter password========
+2021-11-01 08:57:02,128 login_page.py[line:66] INFO password is:222222
+2021-11-01 08:57:02,129 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-01 08:57:03,223 login_page.py[line:68] INFO ========Check_button========
+2021-11-01 08:57:03,224 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-01 08:57:03,811 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-01 08:57:04,566 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:57:06,567 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:57:17,883 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:57:36,602 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-01 08:57:36,602 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-01 08:57:38,754 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:57:40,755 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:57:51,909 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:58:10,378 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-01 08:58:10,378 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-01 08:58:12,701 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-01 08:58:13,618 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:58:13,619 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 08:58:24,673 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-01 08:58:24,675 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-01 08:58:24,676 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-01 08:58:24,676 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-01 08:58:30,164 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-01 08:58:35,311 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-01 08:58:43,793 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-01 08:58:43,793 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-01 08:58:44,000 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-01 08:58:44,000 login_page.py[line:63] INFO username is:3333
+2021-11-01 08:58:44,001 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-01 08:58:45,146 login_page.py[line:65] INFO ========enter password========
+2021-11-01 08:58:45,146 login_page.py[line:66] INFO password is:4444
+2021-11-01 08:58:45,146 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-01 08:58:45,739 login_page.py[line:68] INFO ========Check_button========
+2021-11-01 08:58:45,739 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-01 08:58:46,323 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-01 08:58:46,922 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:58:48,923 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:59:00,215 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:59:18,617 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-01 08:59:18,617 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-01 08:59:19,942 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 08:59:21,942 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 08:59:33,070 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 08:59:51,280 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-01 08:59:51,280 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-01 08:59:53,391 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-01 08:59:54,262 myunit.py[line:11] INFO ====setup====
+2021-11-01 08:59:54,263 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-01 09:00:05,365 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-01 09:00:05,367 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-01 09:00:05,367 test_login.py[line:36] INFO ==== test_login £º13632721415 ====
+2021-11-01 09:00:05,368 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-01 09:00:05,368 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-01 09:00:10,877 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-01 09:00:16,070 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-01 09:00:24,242 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-01 09:00:24,243 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-01 09:00:24,429 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-01 09:00:24,429 login_page.py[line:63] INFO username is:13632721415
+2021-11-01 09:00:24,429 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-01 09:00:25,580 login_page.py[line:65] INFO ========enter password========
+2021-11-01 09:00:25,580 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-01 09:00:25,580 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-01 09:00:26,666 login_page.py[line:68] INFO ========Check_button========
+2021-11-01 09:00:26,666 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-01 09:00:27,254 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-01 09:00:27,854 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-01 09:00:29,854 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-01 09:00:41,813 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 09:00:42,598 login_page.py[line:107] INFO login success!
+2021-11-01 09:00:42,598 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-01 09:00:46,832 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-01 09:00:48,275 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/usercenter_setting
+2021-11-01 09:00:48,397 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/setting_logout_text
+2021-11-01 09:00:50,085 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/tip_commit
+2021-11-01 09:00:50,804 baseview.py[line:35] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
+2021-11-01 09:00:53,786 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
+2021-11-01 09:00:53,786 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-11-01 09:00:54,466 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 08:56:57,070 run.py[line:42] INFO start run test case
+2021-11-03 08:56:57,078 myunit.py[line:11] INFO ====setup====
+2021-11-03 08:56:57,081 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-03 08:57:11,746 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-03 08:57:11,748 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-03 08:57:11,749 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-03 08:57:17,224 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-03 08:57:22,406 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-03 08:57:30,864 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-03 08:57:30,865 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-03 08:57:31,069 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-03 08:57:31,069 login_page.py[line:63] INFO username is:13632721415
+2021-11-03 08:57:31,069 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-03 08:57:32,223 login_page.py[line:65] INFO ========enter password========
+2021-11-03 08:57:32,223 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-03 08:57:32,223 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-03 08:57:32,821 login_page.py[line:68] INFO ========Check_button========
+2021-11-03 08:57:32,822 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-03 08:57:33,417 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-03 08:57:34,015 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 08:57:36,016 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 08:57:48,143 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 08:57:48,970 login_page.py[line:107] INFO login success!
+2021-11-03 08:57:48,970 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-03 08:57:53,198 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-03 08:57:53,903 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-03 08:57:53,903 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/imageSearch
+2021-11-03 08:57:54,493 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-03 08:57:56,093 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-03 08:57:57,397 Home_page.py[line:41] INFO ====Enter search content:ĞÄÀíÑ§====
+2021-11-03 08:57:57,397 common_fun.py[line:136] INFO get ĞÄÀíÑ§ screenshot
+2021-11-03 08:57:58,005 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-03 08:57:58,647 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-03 08:57:58,647 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-03 08:57:59,261 common_fun.py[line:72] INFO SwipeLeft
+2021-11-03 08:58:00,589 Home_page.py[line:53] INFO =====Swipe left:1´Î=====
+2021-11-03 08:58:02,590 common_fun.py[line:72] INFO SwipeLeft
+2021-11-03 08:58:04,000 Home_page.py[line:53] INFO =====Swipe left:2´Î=====
+2021-11-03 08:58:06,000 common_fun.py[line:82] INFO SwipeRight
+2021-11-03 08:58:07,409 Home_page.py[line:57] INFO =====Swipe right:1´Î=====
+2021-11-03 08:58:09,409 common_fun.py[line:136] INFO get Swipe right1´Î screenshot
+2021-11-03 08:58:10,205 common_fun.py[line:82] INFO SwipeRight
+2021-11-03 08:58:11,622 Home_page.py[line:57] INFO =====Swipe right:2´Î=====
+2021-11-03 08:58:13,623 common_fun.py[line:136] INFO get Swipe right2´Î screenshot
+2021-11-03 08:58:14,671 common_fun.py[line:92] INFO  SwipeUp
+2021-11-03 08:58:16,135 Home_page.py[line:62] INFO =====Swipe Up:1´Î=====
+2021-11-03 08:58:17,135 common_fun.py[line:136] INFO get Swipe Up1´Î screenshot
+2021-11-03 08:58:18,181 common_fun.py[line:92] INFO  SwipeUp
+2021-11-03 08:58:19,635 Home_page.py[line:62] INFO =====Swipe Up:2´Î=====
+2021-11-03 08:58:20,637 common_fun.py[line:136] INFO get Swipe Up2´Î screenshot
+2021-11-03 08:58:21,540 common_fun.py[line:102] INFO  SwipeDown
+2021-11-03 08:58:22,881 Home_page.py[line:67] INFO =====Swipe Down1´Î=====
+2021-11-03 08:58:23,882 common_fun.py[line:136] INFO get Swipe Down1´Î screenshot
+2021-11-03 08:58:24,884 common_fun.py[line:102] INFO  SwipeDown
+2021-11-03 08:58:26,260 Home_page.py[line:67] INFO =====Swipe Down2´Î=====
+2021-11-03 08:58:27,261 common_fun.py[line:136] INFO get Swipe Down2´Î screenshot
+2021-11-03 08:58:28,307 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-03 08:58:28,491 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-11-03 08:58:28,491 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-03 08:58:28,641 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-11-03 08:58:28,641 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 08:58:29,469 myunit.py[line:11] INFO ====setup====
+2021-11-03 08:58:29,471 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-03 08:58:40,593 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-03 08:58:40,596 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-03 08:58:40,596 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-03 08:58:46,096 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-03 08:58:51,265 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-03 08:58:59,608 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-03 08:58:59,608 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-03 08:58:59,800 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-03 08:58:59,800 login_page.py[line:63] INFO username is:13632721415
+2021-11-03 08:58:59,800 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-03 08:59:01,023 login_page.py[line:65] INFO ========enter password========
+2021-11-03 08:59:01,024 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-03 08:59:01,024 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-03 08:59:02,108 login_page.py[line:68] INFO ========Check_button========
+2021-11-03 08:59:02,108 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-03 08:59:02,690 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-03 08:59:03,285 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 08:59:05,287 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 08:59:16,622 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 08:59:17,682 login_page.py[line:107] INFO login success!
+2021-11-03 08:59:17,682 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-03 08:59:21,836 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-03 08:59:41,006 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 08:59:41,853 myunit.py[line:11] INFO ====setup====
+2021-11-03 08:59:41,856 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-03 08:59:52,816 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-03 08:59:52,818 test_login.py[line:12] INFO ==== test_login £º13632721415 ====
+2021-11-03 08:59:52,818 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-03 08:59:52,841 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-03 08:59:58,299 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-03 09:00:03,463 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-03 09:00:11,904 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-03 09:00:11,904 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-03 09:00:12,103 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-03 09:00:12,103 login_page.py[line:63] INFO username is:13632721415
+2021-11-03 09:00:12,103 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-03 09:00:13,257 login_page.py[line:65] INFO ========enter password========
+2021-11-03 09:00:13,258 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-03 09:00:13,258 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-03 09:00:13,855 login_page.py[line:68] INFO ========Check_button========
+2021-11-03 09:00:13,855 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-03 09:00:14,443 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-03 09:00:15,043 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:00:17,045 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:00:29,598 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:00:30,697 login_page.py[line:107] INFO login success!
+2021-11-03 09:00:30,697 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-03 09:00:34,778 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:00:36,779 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:00:47,877 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:00:48,934 login_page.py[line:107] INFO login success!
+2021-11-03 09:00:48,934 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-03 09:00:53,031 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 09:00:53,799 myunit.py[line:11] INFO ====setup====
+2021-11-03 09:00:53,801 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-03 09:01:04,686 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-03 09:01:04,688 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-03 09:01:04,688 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-03 09:01:04,688 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-03 09:01:10,185 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-03 09:01:15,348 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-03 09:01:23,778 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-03 09:01:23,778 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-03 09:01:23,988 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-03 09:01:23,988 login_page.py[line:63] INFO username is:5555
+2021-11-03 09:01:23,988 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-03 09:01:25,132 login_page.py[line:65] INFO ========enter password========
+2021-11-03 09:01:25,132 login_page.py[line:66] INFO password is:222222
+2021-11-03 09:01:25,132 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-03 09:01:25,740 login_page.py[line:68] INFO ========Check_button========
+2021-11-03 09:01:25,740 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-03 09:01:26,323 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-03 09:01:26,907 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:01:28,907 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:01:40,201 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:01:58,858 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-03 09:01:58,858 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-03 09:02:00,081 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:02:02,081 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:02:13,224 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:02:31,461 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-03 09:02:31,461 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-03 09:02:33,585 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 09:02:34,722 myunit.py[line:11] INFO ====setup====
+2021-11-03 09:02:34,725 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-03 09:02:46,307 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-03 09:02:46,310 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-03 09:02:46,310 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-03 09:02:46,310 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-03 09:02:51,796 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-03 09:02:56,985 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-03 09:03:05,203 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-03 09:03:05,203 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-03 09:03:05,366 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-03 09:03:05,367 login_page.py[line:63] INFO username is:3333
+2021-11-03 09:03:05,367 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-03 09:03:06,520 login_page.py[line:65] INFO ========enter password========
+2021-11-03 09:03:06,521 login_page.py[line:66] INFO password is:4444
+2021-11-03 09:03:06,521 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-03 09:03:07,104 login_page.py[line:68] INFO ========Check_button========
+2021-11-03 09:03:07,104 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-03 09:03:07,691 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-03 09:03:08,289 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:03:10,290 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:03:21,598 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:03:40,270 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-03 09:03:40,270 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-03 09:03:41,836 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:03:43,838 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:03:54,996 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:04:13,265 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-03 09:04:13,265 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-03 09:04:15,405 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 09:04:16,458 myunit.py[line:11] INFO ====setup====
+2021-11-03 09:04:16,461 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-03 09:04:28,270 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-03 09:04:28,273 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-03 09:04:28,273 test_login.py[line:36] INFO ==== test_login £º13632721415 ====
+2021-11-03 09:04:28,273 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-03 09:04:28,274 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-03 09:04:33,762 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-03 09:04:38,930 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-03 09:04:47,369 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-03 09:04:47,370 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-03 09:04:47,565 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-03 09:04:47,566 login_page.py[line:63] INFO username is:13632721415
+2021-11-03 09:04:47,566 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-03 09:04:48,725 login_page.py[line:65] INFO ========enter password========
+2021-11-03 09:04:48,725 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-03 09:04:48,725 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-03 09:04:49,824 login_page.py[line:68] INFO ========Check_button========
+2021-11-03 09:04:49,824 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-03 09:04:50,387 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-03 09:04:50,941 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-03 09:04:52,942 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-03 09:05:05,460 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:05:06,529 login_page.py[line:107] INFO login success!
+2021-11-03 09:05:06,529 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-03 09:05:10,477 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-03 09:05:11,598 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/usercenter_setting
+2021-11-03 09:05:12,281 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/setting_logout_text
+2021-11-03 09:05:13,371 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/tip_commit
+2021-11-03 09:05:14,105 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
+2021-11-03 09:05:17,272 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
+2021-11-03 09:05:17,272 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-11-03 09:05:18,070 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-03 17:59:44,922 run.py[line:42] INFO start run test case
+2021-11-03 17:59:44,922 myunit.py[line:11] INFO ====setup====
+2021-11-03 17:59:44,924 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 08:54:14,196 run.py[line:42] INFO start run test case
+2021-11-05 08:54:14,204 myunit.py[line:11] INFO ====setup====
+2021-11-05 08:54:14,205 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 08:54:28,038 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 08:54:28,040 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-05 08:54:28,040 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 08:54:33,521 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 08:54:38,667 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 08:54:47,183 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 08:54:47,184 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-05 08:54:47,391 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 08:54:47,391 login_page.py[line:63] INFO username is:13632721415
+2021-11-05 08:54:47,391 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 08:54:48,609 login_page.py[line:65] INFO ========enter password========
+2021-11-05 08:54:48,610 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-05 08:54:48,610 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 08:54:49,705 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 08:54:49,706 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 08:54:50,283 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 08:54:50,884 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 08:54:52,884 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 08:55:04,447 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 08:55:05,629 login_page.py[line:107] INFO login success!
+2021-11-05 08:55:05,629 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-05 08:55:10,115 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-05 08:55:11,145 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-05 08:55:11,145 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/imageSearch
+2021-11-05 08:55:11,788 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-05 08:55:13,104 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-05 08:55:14,390 Home_page.py[line:41] INFO ====Enter search content:ĞÄÀíÑ§====
+2021-11-05 08:55:14,390 common_fun.py[line:136] INFO get ĞÄÀíÑ§ screenshot
+2021-11-05 08:55:15,017 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-05 08:55:15,213 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-05 08:55:15,213 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-05 08:55:15,821 common_fun.py[line:72] INFO SwipeLeft
+2021-11-05 08:55:17,145 Home_page.py[line:53] INFO =====Swipe left:1´Î=====
+2021-11-05 08:55:19,146 common_fun.py[line:72] INFO SwipeLeft
+2021-11-05 08:55:20,539 Home_page.py[line:53] INFO =====Swipe left:2´Î=====
+2021-11-05 08:55:22,540 common_fun.py[line:82] INFO SwipeRight
+2021-11-05 08:55:23,966 Home_page.py[line:57] INFO =====Swipe right:1´Î=====
+2021-11-05 08:55:25,967 common_fun.py[line:136] INFO get Swipe right1´Î screenshot
+2021-11-05 08:55:26,743 common_fun.py[line:82] INFO SwipeRight
+2021-11-05 08:55:28,113 Home_page.py[line:57] INFO =====Swipe right:2´Î=====
+2021-11-05 08:55:30,113 common_fun.py[line:136] INFO get Swipe right2´Î screenshot
+2021-11-05 08:55:31,089 common_fun.py[line:92] INFO  SwipeUp
+2021-11-05 08:55:32,529 Home_page.py[line:62] INFO =====Swipe Up:1´Î=====
+2021-11-05 08:55:33,530 common_fun.py[line:136] INFO get Swipe Up1´Î screenshot
+2021-11-05 08:55:34,577 common_fun.py[line:92] INFO  SwipeUp
+2021-11-05 08:55:35,971 Home_page.py[line:62] INFO =====Swipe Up:2´Î=====
+2021-11-05 08:55:36,971 common_fun.py[line:136] INFO get Swipe Up2´Î screenshot
+2021-11-05 08:55:37,936 common_fun.py[line:102] INFO  SwipeDown
+2021-11-05 08:55:39,273 Home_page.py[line:67] INFO =====Swipe Down1´Î=====
+2021-11-05 08:55:40,274 common_fun.py[line:136] INFO get Swipe Down1´Î screenshot
+2021-11-05 08:55:41,294 common_fun.py[line:102] INFO  SwipeDown
+2021-11-05 08:55:42,663 Home_page.py[line:67] INFO =====Swipe Down2´Î=====
+2021-11-05 08:55:43,664 common_fun.py[line:136] INFO get Swipe Down2´Î screenshot
+2021-11-05 08:55:44,719 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-05 08:55:44,906 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-11-05 08:55:44,906 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ËÑË÷']
+2021-11-05 08:55:45,055 Home_page.py[line:75] INFO Ğ£ÑéÔªËØ³É¹¦£¡:('xpath', "//*[@text='ËÑË÷']")
+2021-11-05 08:55:45,056 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-05 08:55:46,104 myunit.py[line:11] INFO ====setup====
+2021-11-05 08:55:46,106 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 08:55:57,306 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 08:55:57,308 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-05 08:55:57,308 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 08:56:02,791 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 08:56:07,954 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 08:56:16,290 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 08:56:16,290 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-05 08:56:16,460 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 08:56:16,460 login_page.py[line:63] INFO username is:13632721415
+2021-11-05 08:56:16,460 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 08:56:17,614 login_page.py[line:65] INFO ========enter password========
+2021-11-05 08:56:17,615 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-05 08:56:17,615 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 08:56:18,219 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 08:56:18,219 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 08:56:18,802 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 08:56:19,397 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 08:56:21,397 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 08:56:33,346 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 08:56:34,271 login_page.py[line:107] INFO login success!
+2021-11-05 08:56:34,271 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-05 08:56:38,534 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-05 08:56:57,227 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-05 08:56:58,127 myunit.py[line:11] INFO ====setup====
+2021-11-05 08:56:58,129 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 08:57:09,254 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 08:57:09,256 test_login.py[line:12] INFO ==== test_login £º13632721415 ====
+2021-11-05 08:57:09,256 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-05 08:57:09,274 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 08:57:14,757 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 08:57:19,929 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 08:57:28,428 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 08:57:28,428 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-05 08:57:28,649 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 08:57:28,649 login_page.py[line:63] INFO username is:13632721415
+2021-11-05 08:57:28,649 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 08:57:29,799 login_page.py[line:65] INFO ========enter password========
+2021-11-05 08:57:29,799 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-05 08:57:29,799 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 08:57:30,401 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 08:57:30,401 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 08:57:30,988 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 08:57:31,582 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 08:57:33,583 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 08:57:45,704 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 08:57:46,804 login_page.py[line:107] INFO login success!
+2021-11-05 08:57:46,804 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-05 08:57:50,981 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 08:57:52,982 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 08:58:05,143 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 08:58:06,055 login_page.py[line:107] INFO login success!
+2021-11-05 08:58:06,055 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-05 08:58:10,162 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-05 08:58:10,953 myunit.py[line:11] INFO ====setup====
+2021-11-05 08:58:10,956 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 08:58:22,002 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 08:58:22,005 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-05 08:58:22,005 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-05 08:58:22,005 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 08:58:27,497 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 08:58:32,701 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 08:58:41,179 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 08:58:41,179 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-05 08:58:41,379 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 08:58:41,379 login_page.py[line:63] INFO username is:5555
+2021-11-05 08:58:41,379 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 08:58:42,541 login_page.py[line:65] INFO ========enter password========
+2021-11-05 08:58:42,541 login_page.py[line:66] INFO password is:222222
+2021-11-05 08:58:42,541 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 08:58:43,637 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 08:58:43,637 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 08:58:44,234 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 08:58:44,785 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 08:58:46,786 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 08:58:58,089 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 08:59:16,430 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-05 08:59:16,430 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-05 08:59:17,517 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 08:59:19,518 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 08:59:30,676 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 08:59:48,902 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-05 08:59:48,902 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-05 08:59:51,089 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-05 08:59:52,764 myunit.py[line:11] INFO ====setup====
+2021-11-05 08:59:52,766 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 09:00:04,695 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 09:00:04,697 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-05 09:00:04,697 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-05 09:00:04,698 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 09:00:10,190 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 09:00:15,382 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 09:00:23,923 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 09:00:23,924 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-05 09:00:24,157 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 09:00:24,158 login_page.py[line:63] INFO username is:3333
+2021-11-05 09:00:24,158 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 09:00:25,353 login_page.py[line:65] INFO ========enter password========
+2021-11-05 09:00:25,353 login_page.py[line:66] INFO password is:4444
+2021-11-05 09:00:25,353 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 09:00:26,437 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 09:00:26,437 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 09:00:27,033 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 09:00:27,615 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 09:00:29,616 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 09:00:40,968 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 09:01:00,009 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-05 09:01:00,009 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-05 09:01:02,194 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 09:01:04,195 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 09:01:15,418 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 09:01:33,744 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-05 09:01:33,744 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-05 09:01:34,791 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-05 09:01:35,595 myunit.py[line:11] INFO ====setup====
+2021-11-05 09:01:35,597 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 09:01:47,010 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 09:01:47,013 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-05 09:01:47,013 test_login.py[line:36] INFO ==== test_login £º13632721415 ====
+2021-11-05 09:01:47,013 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-05 09:01:47,014 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 09:01:52,489 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 09:01:57,673 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 09:02:06,192 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 09:02:06,192 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÃÜÂëµÇÂ¼']
+2021-11-05 09:02:06,434 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 09:02:06,434 login_page.py[line:63] INFO username is:13632721415
+2021-11-05 09:02:06,434 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 09:02:07,593 login_page.py[line:65] INFO ========enter password========
+2021-11-05 09:02:07,593 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-05 09:02:07,593 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 09:02:08,184 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 09:02:08,184 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 09:02:08,781 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 09:02:09,378 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 09:02:11,379 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 09:02:23,339 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 09:02:24,528 login_page.py[line:107] INFO login success!
+2021-11-05 09:02:24,528 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-05 09:02:28,597 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='ÎÒµÄ']
+2021-11-05 09:02:29,700 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/usercenter_setting
+2021-11-05 09:02:30,374 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/setting_logout_text
+2021-11-05 09:02:31,647 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·id,valueÖµ-¡·com.tal.kaoyan:id/tip_commit
+2021-11-05 09:02:32,382 baseview.py[line:39] INFO ÕıÔÚ¶¨Î»ÔªËØĞÅÏ¢£º¶¨Î»·½Ê½-¡·xpath,valueÖµ-¡·//*[@text='Î´µÇÂ¼']
+2021-11-05 09:02:35,537 login_page.py[line:89] INFO ÓÃ»§µÇ³ö³É¹¦
+2021-11-05 09:02:35,537 common_fun.py[line:136] INFO get ÓÃ»§µÇ³öÂ¼³É¹¦ screenshot
+2021-11-05 09:02:36,282 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-05 10:50:27,005 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-05 10:50:39,064 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-05 10:50:39,080 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-05 10:50:44,560 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-05 10:50:49,742 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-05 10:50:58,397 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-05 10:50:58,398 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹xpath,valueå€¼-ã€‹//*[@text='å¯†ç ç™»å½•']
+2021-11-05 10:50:58,596 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-05 10:50:58,597 login_page.py[line:63] INFO username is:13632721415
+2021-11-05 10:50:58,597 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/loginEmailEdittext
+2021-11-05 10:50:59,307 login_page.py[line:65] INFO ========enter password========
+2021-11-05 10:50:59,308 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-05 10:50:59,308 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-05 10:50:59,921 login_page.py[line:68] INFO ========Check_button========
+2021-11-05 10:50:59,921 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-05 10:51:00,506 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/loginLoginBtn
+2021-11-05 10:51:01,099 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-05 10:51:03,099 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-05 10:51:14,249 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹xpath,valueå€¼-ã€‹//*[@text='æˆ‘çš„']
+2021-11-05 10:51:14,998 login_page.py[line:107] INFO login success!
+2021-11-05 10:51:14,998 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-05 10:51:19,271 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-05 10:51:19,998 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-05 10:51:19,998 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/imageSearch
+2021-11-05 10:51:20,581 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-05 10:51:21,792 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹id,valueå€¼-ã€‹com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-05 10:51:23,800 Home_page.py[line:41] INFO ====Enter search content:å¿ƒç†å­¦====
+2021-11-05 10:51:23,801 common_fun.py[line:136] INFO get å¿ƒç†å­¦ screenshot
+2021-11-05 10:51:24,409 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹xpath,valueå€¼-ã€‹//*[@text='æœç´¢']
+2021-11-05 10:51:24,590 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-05 10:51:24,590 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-05 10:51:25,192 common_fun.py[line:72] INFO SwipeLeft
+2021-11-05 10:51:26,508 Home_page.py[line:53] INFO =====Swipe left:1æ¬¡=====
+2021-11-05 10:51:28,509 common_fun.py[line:72] INFO SwipeLeft
+2021-11-05 10:51:29,900 Home_page.py[line:53] INFO =====Swipe left:2æ¬¡=====
+2021-11-05 10:51:31,901 common_fun.py[line:82] INFO SwipeRight
+2021-11-05 10:51:33,285 Home_page.py[line:57] INFO =====Swipe right:1æ¬¡=====
+2021-11-05 10:51:35,285 common_fun.py[line:136] INFO get Swipe right1æ¬¡ screenshot
+2021-11-05 10:51:36,054 common_fun.py[line:82] INFO SwipeRight
+2021-11-05 10:51:37,399 Home_page.py[line:57] INFO =====Swipe right:2æ¬¡=====
+2021-11-05 10:51:39,401 common_fun.py[line:136] INFO get Swipe right2æ¬¡ screenshot
+2021-11-05 10:51:40,503 common_fun.py[line:92] INFO  SwipeUp
+2021-11-05 10:51:41,965 Home_page.py[line:62] INFO =====Swipe Up:1æ¬¡=====
+2021-11-05 10:51:42,966 common_fun.py[line:136] INFO get Swipe Up1æ¬¡ screenshot
+2021-11-05 10:51:44,065 common_fun.py[line:92] INFO  SwipeUp
+2021-11-05 10:51:45,470 Home_page.py[line:62] INFO =====Swipe Up:2æ¬¡=====
+2021-11-05 10:51:46,470 common_fun.py[line:136] INFO get Swipe Up2æ¬¡ screenshot
+2021-11-05 10:51:47,367 common_fun.py[line:102] INFO  SwipeDown
+2021-11-05 10:51:48,755 Home_page.py[line:67] INFO =====Swipe Down1æ¬¡=====
+2021-11-05 10:51:49,755 common_fun.py[line:136] INFO get Swipe Down1æ¬¡ screenshot
+2021-11-05 10:51:50,796 common_fun.py[line:102] INFO  SwipeDown
+2021-11-05 10:51:52,198 Home_page.py[line:67] INFO =====Swipe Down2æ¬¡=====
+2021-11-05 10:51:53,199 common_fun.py[line:136] INFO get Swipe Down2æ¬¡ screenshot
+2021-11-05 10:51:54,248 baseview.py[line:39] INFO æ­£åœ¨å®šä½å…ƒç´ ä¿¡æ¯ï¼šå®šä½æ–¹å¼-ã€‹xpath,valueå€¼-ã€‹//*[@text='æœç´¢']
+2021-11-05 10:51:54,434 Home_page.py[line:75] INFO æ ¡éªŒå…ƒç´ æˆåŠŸï¼:('xpath', "//*[@text='æœç´¢']")

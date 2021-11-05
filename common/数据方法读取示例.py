@@ -1,4 +1,5 @@
 import csv
+from kyb_testproject.baseView.log import Logger
 
 
 # 读取csv文件
@@ -13,9 +14,7 @@ def get_scv_data(csv_file, line):
 csv_file = '../data/account.csv'
 data = get_scv_data(csv_file, 1)  # 需要获取到第几行的数据就改为几行
 # 通过下标获取单个数据
-print(data)
-print(data[0])
-print(data[1])
+
 
 # for方法 循环读取列表中的数据，索引和索引志向数据
 list = ["这", "是", "一个", "测试数据"]

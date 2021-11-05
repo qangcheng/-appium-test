@@ -4,6 +4,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
+def Schamea_Jump(link):
+    return os.popen("adb -d shell am start -a android.intent.action.VIEW -d" + link)
+
+
 class BaseView(object):
     def __init__(self, driver):
         self.driver = driver
@@ -81,9 +85,7 @@ class BaseView(object):
         return print(self.driver.contexts)
 
     # Schamea跳转
-    def Schamea_Jump(self, link):
-        return os.popen("adb -d shell am start -a android.intent.action.VIEW -d" + link)
 
 
 if __name__ == '__main__':
-        pass
+    pass

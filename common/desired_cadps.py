@@ -22,7 +22,7 @@ logging = logging.getLogger()
 def desired_conf():
     # 读取yaml配置表中的配置,不写close,也不会出现文件未释放的问题
     with open(r"D:\codetest\kyb_testproject\config\capbillty.yaml", 'r', encoding="UTF-8") as file:
-        data = yaml.load(file,Loader=yaml.FullLoader)
+        data = yaml.load(file, Loader=yaml.FullLoader)
 
     desired_caps = {}
     desired_caps['platformName'] = data['platformName']
