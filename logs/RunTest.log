@@ -2640,3 +2640,1083 @@
 2021-11-05 10:51:53,199 common_fun.py[line:136] INFO get Swipe Down2次 screenshot
 2021-11-05 10:51:54,248 baseview.py[line:39] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
 2021-11-05 10:51:54,434 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-10 08:47:43,047 run.py[line:42] INFO start run test case
+2021-11-10 08:47:43,051 myunit.py[line:11] INFO ====setup====
+2021-11-10 08:47:43,054 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-10 08:47:58,548 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-10 08:47:58,550 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-10 08:47:58,550 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-10 08:48:04,040 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-10 08:48:09,256 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-10 08:48:17,442 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-10 08:48:17,442 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-10 08:48:17,712 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-10 08:48:17,713 login_page.py[line:63] INFO username is:13632721415
+2021-11-10 08:48:17,713 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-10 08:48:18,864 login_page.py[line:65] INFO ========enter password========
+2021-11-10 08:48:18,864 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-10 08:48:18,864 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-10 08:48:19,964 login_page.py[line:68] INFO ========Check_button========
+2021-11-10 08:48:19,964 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-10 08:48:20,551 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-10 08:48:21,154 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:48:23,154 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:48:34,637 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:48:35,756 login_page.py[line:107] INFO login success!
+2021-11-10 08:48:35,756 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-10 08:48:40,252 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-10 08:48:41,630 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-10 08:48:41,638 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/imageSearch
+2021-11-10 08:48:41,759 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-10 08:48:43,445 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-10 08:48:44,747 Home_page.py[line:41] INFO ====Enter search content:心理学====
+2021-11-10 08:48:44,747 common_fun.py[line:136] INFO get 心理学 screenshot
+2021-11-10 08:48:45,366 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-10 08:48:45,564 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-10 08:48:45,564 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-10 08:48:46,173 common_fun.py[line:72] INFO SwipeLeft
+2021-11-10 08:48:47,477 Home_page.py[line:53] INFO =====Swipe left:1次=====
+2021-11-10 08:48:49,478 common_fun.py[line:72] INFO SwipeLeft
+2021-11-10 08:48:50,859 Home_page.py[line:53] INFO =====Swipe left:2次=====
+2021-11-10 08:48:52,859 common_fun.py[line:82] INFO SwipeRight
+2021-11-10 08:48:54,243 Home_page.py[line:57] INFO =====Swipe right:1次=====
+2021-11-10 08:48:56,243 common_fun.py[line:136] INFO get Swipe right1次 screenshot
+2021-11-10 08:48:57,009 common_fun.py[line:82] INFO SwipeRight
+2021-11-10 08:48:58,407 Home_page.py[line:57] INFO =====Swipe right:2次=====
+2021-11-10 08:49:00,408 common_fun.py[line:136] INFO get Swipe right2次 screenshot
+2021-11-10 08:49:01,446 common_fun.py[line:92] INFO  SwipeUp
+2021-11-10 08:49:02,922 Home_page.py[line:62] INFO =====Swipe Up:1次=====
+2021-11-10 08:49:03,922 common_fun.py[line:136] INFO get Swipe Up1次 screenshot
+2021-11-10 08:49:04,964 common_fun.py[line:92] INFO  SwipeUp
+2021-11-10 08:49:06,332 Home_page.py[line:62] INFO =====Swipe Up:2次=====
+2021-11-10 08:49:07,333 common_fun.py[line:136] INFO get Swipe Up2次 screenshot
+2021-11-10 08:49:08,247 common_fun.py[line:102] INFO  SwipeDown
+2021-11-10 08:49:09,613 Home_page.py[line:67] INFO =====Swipe Down1次=====
+2021-11-10 08:49:10,613 common_fun.py[line:136] INFO get Swipe Down1次 screenshot
+2021-11-10 08:49:11,633 common_fun.py[line:102] INFO  SwipeDown
+2021-11-10 08:49:13,070 Home_page.py[line:67] INFO =====Swipe Down2次=====
+2021-11-10 08:49:14,070 common_fun.py[line:136] INFO get Swipe Down2次 screenshot
+2021-11-10 08:49:15,096 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-10 08:49:15,267 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-10 08:49:15,268 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-10 08:49:15,404 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-10 08:49:15,404 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-10 08:49:16,176 myunit.py[line:11] INFO ====setup====
+2021-11-10 08:49:16,179 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-10 08:49:28,559 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-10 08:49:28,561 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-10 08:49:28,562 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-10 08:49:34,028 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-10 08:49:39,244 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-10 08:49:47,684 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-10 08:49:47,684 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-10 08:49:47,871 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-10 08:49:47,871 login_page.py[line:63] INFO username is:13632721415
+2021-11-10 08:49:47,871 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-10 08:49:49,017 login_page.py[line:65] INFO ========enter password========
+2021-11-10 08:49:49,017 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-10 08:49:49,017 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-10 08:49:49,608 login_page.py[line:68] INFO ========Check_button========
+2021-11-10 08:49:49,609 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-10 08:49:50,189 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-10 08:49:50,785 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:49:52,786 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:50:03,914 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:50:04,959 login_page.py[line:107] INFO login success!
+2021-11-10 08:50:04,959 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-10 08:50:09,212 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-10 08:50:19,516 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-10 08:50:20,368 myunit.py[line:11] INFO ====setup====
+2021-11-10 08:50:20,371 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-10 08:50:31,678 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-10 08:50:31,680 test_login.py[line:12] INFO ==== test_login ：13632721415 ====
+2021-11-10 08:50:31,680 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-10 08:50:31,711 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-10 08:50:37,152 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-10 08:50:42,358 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-10 08:50:50,820 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-10 08:50:50,820 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-10 08:50:50,992 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-10 08:50:50,992 login_page.py[line:63] INFO username is:13632721415
+2021-11-10 08:50:50,992 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-10 08:50:52,138 login_page.py[line:65] INFO ========enter password========
+2021-11-10 08:50:52,138 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-10 08:50:52,138 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-10 08:50:53,219 login_page.py[line:68] INFO ========Check_button========
+2021-11-10 08:50:53,219 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-10 08:50:53,817 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-10 08:50:54,412 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:50:56,413 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:51:08,363 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:51:09,560 login_page.py[line:107] INFO login success!
+2021-11-10 08:51:09,560 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-10 08:51:13,669 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:51:15,669 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:51:26,785 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:51:27,890 login_page.py[line:107] INFO login success!
+2021-11-10 08:51:27,890 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-10 08:51:32,100 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-10 08:51:32,910 myunit.py[line:11] INFO ====setup====
+2021-11-10 08:51:32,912 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-10 08:51:44,148 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-10 08:51:44,152 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-10 08:51:44,152 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-10 08:51:44,153 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-10 08:51:49,641 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-10 08:51:54,804 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-10 08:52:03,024 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-10 08:52:03,024 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-10 08:52:03,208 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-10 08:52:03,208 login_page.py[line:63] INFO username is:5555
+2021-11-10 08:52:03,209 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-10 08:52:03,914 login_page.py[line:65] INFO ========enter password========
+2021-11-10 08:52:03,914 login_page.py[line:66] INFO password is:222222
+2021-11-10 08:52:03,915 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-10 08:52:04,514 login_page.py[line:68] INFO ========Check_button========
+2021-11-10 08:52:04,514 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-10 08:52:05,101 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-10 08:52:05,699 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:52:07,699 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:52:19,002 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:52:37,988 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-10 08:52:37,988 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-10 08:52:39,530 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:52:41,530 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:52:52,666 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:53:10,781 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-10 08:53:10,781 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-10 08:53:12,930 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-10 08:53:13,811 myunit.py[line:11] INFO ====setup====
+2021-11-10 08:53:13,814 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-10 08:53:25,067 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-10 08:53:25,069 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-10 08:53:25,069 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-10 08:53:25,070 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-10 08:53:30,571 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-10 08:53:35,735 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-10 08:53:44,178 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-10 08:53:44,178 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-10 08:53:44,389 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-10 08:53:44,390 login_page.py[line:63] INFO username is:3333
+2021-11-10 08:53:44,390 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-10 08:53:45,085 login_page.py[line:65] INFO ========enter password========
+2021-11-10 08:53:45,086 login_page.py[line:66] INFO password is:4444
+2021-11-10 08:53:45,086 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-10 08:53:45,678 login_page.py[line:68] INFO ========Check_button========
+2021-11-10 08:53:45,678 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-10 08:53:46,299 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-10 08:53:46,879 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:53:48,880 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:54:00,182 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:54:18,798 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-10 08:54:18,798 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-10 08:54:20,281 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:54:22,281 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:54:33,424 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:54:51,622 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-10 08:54:51,622 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-10 08:54:53,763 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-10 08:54:54,574 myunit.py[line:11] INFO ====setup====
+2021-11-10 08:54:54,577 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-10 08:55:05,682 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-10 08:55:05,684 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-10 08:55:05,684 test_login.py[line:36] INFO ==== test_login ：13632721415 ====
+2021-11-10 08:55:05,685 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-10 08:55:05,685 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-10 08:55:11,165 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-10 08:55:16,369 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-10 08:55:24,582 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-10 08:55:24,583 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-10 08:55:24,755 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-10 08:55:24,755 login_page.py[line:63] INFO username is:13632721415
+2021-11-10 08:55:24,755 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-10 08:55:25,900 login_page.py[line:65] INFO ========enter password========
+2021-11-10 08:55:25,900 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-10 08:55:25,900 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-10 08:55:26,497 login_page.py[line:68] INFO ========Check_button========
+2021-11-10 08:55:26,497 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-10 08:55:27,094 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-10 08:55:27,695 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-10 08:55:29,695 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-10 08:55:41,451 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:55:42,425 login_page.py[line:107] INFO login success!
+2021-11-10 08:55:42,426 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-10 08:55:46,523 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-10 08:55:47,423 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/usercenter_setting
+2021-11-10 08:55:48,071 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/setting_logout_text
+2021-11-10 08:55:49,096 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/tip_commit
+2021-11-10 08:55:49,875 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='未登录']
+2021-11-10 08:55:52,979 login_page.py[line:89] INFO 用户登出成功
+2021-11-10 08:55:52,980 common_fun.py[line:136] INFO get 用户登出录成功 screenshot
+2021-11-10 08:55:53,759 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-11 08:56:43,021 run.py[line:42] INFO start run test case
+2021-11-11 08:56:43,028 myunit.py[line:11] INFO ====setup====
+2021-11-11 08:56:43,037 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-11 08:56:58,214 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-11 08:56:58,216 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-11 08:56:58,216 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-11 08:57:03,686 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-11 08:57:08,883 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-11 08:57:17,424 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-11 08:57:17,425 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-11 08:57:17,628 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-11 08:57:17,628 login_page.py[line:63] INFO username is:13632721415
+2021-11-11 08:57:17,628 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-11 08:57:18,345 login_page.py[line:65] INFO ========enter password========
+2021-11-11 08:57:18,346 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-11 08:57:18,346 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-11 08:57:18,970 login_page.py[line:68] INFO ========Check_button========
+2021-11-11 08:57:18,970 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-11 08:57:19,551 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-11 08:57:20,150 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 08:57:22,150 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 08:57:34,133 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 08:57:35,188 login_page.py[line:107] INFO login success!
+2021-11-11 08:57:35,188 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-11 08:57:39,865 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-11 08:57:41,196 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-11 08:57:41,196 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/imageSearch
+2021-11-11 08:57:41,306 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-11 08:57:42,657 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-11 08:57:43,950 Home_page.py[line:41] INFO ====Enter search content:心理学====
+2021-11-11 08:57:43,950 common_fun.py[line:136] INFO get 心理学 screenshot
+2021-11-11 08:57:44,562 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-11 08:57:44,784 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-11 08:57:44,784 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-11 08:57:45,385 common_fun.py[line:72] INFO SwipeLeft
+2021-11-11 08:57:46,731 Home_page.py[line:53] INFO =====Swipe left:1次=====
+2021-11-11 08:57:48,731 common_fun.py[line:72] INFO SwipeLeft
+2021-11-11 08:57:50,107 Home_page.py[line:53] INFO =====Swipe left:2次=====
+2021-11-11 08:57:52,108 common_fun.py[line:82] INFO SwipeRight
+2021-11-11 08:57:53,519 Home_page.py[line:57] INFO =====Swipe right:1次=====
+2021-11-11 08:57:55,519 common_fun.py[line:136] INFO get Swipe right1次 screenshot
+2021-11-11 08:57:56,286 common_fun.py[line:82] INFO SwipeRight
+2021-11-11 08:57:57,616 Home_page.py[line:57] INFO =====Swipe right:2次=====
+2021-11-11 08:57:59,618 common_fun.py[line:136] INFO get Swipe right2次 screenshot
+2021-11-11 08:58:00,692 common_fun.py[line:92] INFO  SwipeUp
+2021-11-11 08:58:02,207 Home_page.py[line:62] INFO =====Swipe Up:1次=====
+2021-11-11 08:58:03,207 common_fun.py[line:136] INFO get Swipe Up1次 screenshot
+2021-11-11 08:58:04,220 common_fun.py[line:92] INFO  SwipeUp
+2021-11-11 08:58:05,685 Home_page.py[line:62] INFO =====Swipe Up:2次=====
+2021-11-11 08:58:06,685 common_fun.py[line:136] INFO get Swipe Up2次 screenshot
+2021-11-11 08:58:07,690 common_fun.py[line:102] INFO  SwipeDown
+2021-11-11 08:58:09,026 Home_page.py[line:67] INFO =====Swipe Down1次=====
+2021-11-11 08:58:10,027 common_fun.py[line:136] INFO get Swipe Down1次 screenshot
+2021-11-11 08:58:11,065 common_fun.py[line:102] INFO  SwipeDown
+2021-11-11 08:58:12,463 Home_page.py[line:67] INFO =====Swipe Down2次=====
+2021-11-11 08:58:13,464 common_fun.py[line:136] INFO get Swipe Down2次 screenshot
+2021-11-11 08:58:14,534 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-11 08:58:14,728 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-11 08:58:14,728 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-11 08:58:14,879 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-11 08:58:14,879 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-11 08:58:15,659 myunit.py[line:11] INFO ====setup====
+2021-11-11 08:58:15,662 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-11 08:58:27,996 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-11 08:58:27,998 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-11 08:58:27,999 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-11 08:58:33,475 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-11 08:58:38,673 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-11 08:58:47,155 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-11 08:58:47,155 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-11 08:58:47,383 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-11 08:58:47,383 login_page.py[line:63] INFO username is:13632721415
+2021-11-11 08:58:47,383 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-11 08:58:48,587 login_page.py[line:65] INFO ========enter password========
+2021-11-11 08:58:48,588 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-11 08:58:48,588 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-11 08:58:49,673 login_page.py[line:68] INFO ========Check_button========
+2021-11-11 08:58:49,673 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-11 08:58:50,283 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-11 08:58:50,866 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 08:58:52,866 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 08:59:05,091 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 08:59:06,165 login_page.py[line:107] INFO login success!
+2021-11-11 08:59:06,165 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-11 08:59:10,448 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-11 08:59:20,535 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-11 08:59:21,410 myunit.py[line:11] INFO ====setup====
+2021-11-11 08:59:21,412 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-11 08:59:32,420 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-11 08:59:32,424 test_login.py[line:12] INFO ==== test_login ：13632721415 ====
+2021-11-11 08:59:32,424 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-11 08:59:32,440 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-11 08:59:37,914 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-11 08:59:43,135 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-11 08:59:51,379 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-11 08:59:51,379 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-11 08:59:51,558 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-11 08:59:51,558 login_page.py[line:63] INFO username is:13632721415
+2021-11-11 08:59:51,558 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-11 08:59:52,697 login_page.py[line:65] INFO ========enter password========
+2021-11-11 08:59:52,697 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-11 08:59:52,697 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-11 08:59:53,293 login_page.py[line:68] INFO ========Check_button========
+2021-11-11 08:59:53,294 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-11 08:59:53,894 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-11 08:59:54,492 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 08:59:56,492 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:00:08,516 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:00:09,292 login_page.py[line:107] INFO login success!
+2021-11-11 09:00:09,293 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-11 09:00:13,420 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 09:00:15,421 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:00:26,992 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:00:27,727 login_page.py[line:107] INFO login success!
+2021-11-11 09:00:27,727 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-11 09:00:31,866 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-11 09:00:32,766 myunit.py[line:11] INFO ====setup====
+2021-11-11 09:00:32,770 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-11 09:00:43,856 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-11 09:00:43,858 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-11 09:00:43,858 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-11 09:00:43,859 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-11 09:00:49,333 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-11 09:00:54,523 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-11 09:01:02,777 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-11 09:01:02,777 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-11 09:01:02,974 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-11 09:01:02,974 login_page.py[line:63] INFO username is:5555
+2021-11-11 09:01:02,974 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-11 09:01:04,121 login_page.py[line:65] INFO ========enter password========
+2021-11-11 09:01:04,121 login_page.py[line:66] INFO password is:222222
+2021-11-11 09:01:04,121 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-11 09:01:04,723 login_page.py[line:68] INFO ========Check_button========
+2021-11-11 09:01:04,723 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-11 09:01:05,311 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-11 09:01:05,911 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 09:01:07,911 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:01:19,204 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:01:37,909 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-11 09:01:37,909 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-11 09:01:39,203 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 09:01:41,204 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:01:52,360 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:02:10,773 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-11 09:02:10,773 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-11 09:02:12,899 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-11 09:02:13,828 myunit.py[line:11] INFO ====setup====
+2021-11-11 09:02:13,831 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-11 09:02:24,974 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-11 09:02:24,977 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-11 09:02:24,977 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-11 09:02:24,977 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-11 09:02:30,482 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-11 09:02:35,652 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-11 09:02:44,104 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-11 09:02:44,104 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-11 09:02:44,301 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-11 09:02:44,301 login_page.py[line:63] INFO username is:3333
+2021-11-11 09:02:44,302 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-11 09:02:44,998 login_page.py[line:65] INFO ========enter password========
+2021-11-11 09:02:44,998 login_page.py[line:66] INFO password is:4444
+2021-11-11 09:02:44,998 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-11 09:02:45,589 login_page.py[line:68] INFO ========Check_button========
+2021-11-11 09:02:45,589 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-11 09:02:46,195 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-11 09:02:46,791 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 09:02:48,791 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:03:00,104 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:03:18,797 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-11 09:03:18,797 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-11 09:03:20,281 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 09:03:22,283 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:03:33,438 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:03:51,673 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-11 09:03:51,673 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-11 09:03:53,833 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-11 09:03:54,624 myunit.py[line:11] INFO ====setup====
+2021-11-11 09:03:54,627 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-11 09:04:05,848 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-11 09:04:05,851 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-11 09:04:05,851 test_login.py[line:36] INFO ==== test_login ：13632721415 ====
+2021-11-11 09:04:05,851 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-11 09:04:05,852 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-11 09:04:11,330 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-11 09:04:16,550 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-11 09:04:24,604 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-11 09:04:24,604 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-11 09:04:24,772 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-11 09:04:24,772 login_page.py[line:63] INFO username is:13632721415
+2021-11-11 09:04:24,772 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-11 09:04:25,467 login_page.py[line:65] INFO ========enter password========
+2021-11-11 09:04:25,467 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-11 09:04:25,467 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-11 09:04:26,599 login_page.py[line:68] INFO ========Check_button========
+2021-11-11 09:04:26,599 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-11 09:04:27,177 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-11 09:04:27,763 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-11 09:04:29,763 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-11 09:04:41,172 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:04:41,991 login_page.py[line:107] INFO login success!
+2021-11-11 09:04:41,991 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-11 09:04:46,074 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-11 09:04:46,952 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/usercenter_setting
+2021-11-11 09:04:47,619 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/setting_logout_text
+2021-11-11 09:04:48,640 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/tip_commit
+2021-11-11 09:04:49,963 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='未登录']
+2021-11-11 09:04:53,114 login_page.py[line:89] INFO 用户登出成功
+2021-11-11 09:04:53,114 common_fun.py[line:136] INFO get 用户登出录成功 screenshot
+2021-11-11 09:04:53,882 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-16 08:53:55,140 run.py[line:41] INFO start run test case
+2021-11-16 08:53:55,143 myunit.py[line:11] INFO ====setup====
+2021-11-16 08:53:55,145 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-16 08:54:08,368 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-16 08:54:08,375 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-16 08:54:08,375 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-16 08:54:13,865 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-16 08:54:19,069 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-16 08:54:27,197 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-16 08:54:27,197 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-16 08:54:27,440 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-16 08:54:27,440 login_page.py[line:63] INFO username is:13632721415
+2021-11-16 08:54:27,440 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-16 08:54:28,605 login_page.py[line:65] INFO ========enter password========
+2021-11-16 08:54:28,605 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-16 08:54:28,605 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-16 08:54:29,211 login_page.py[line:68] INFO ========Check_button========
+2021-11-16 08:54:29,211 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-16 08:54:29,806 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-16 08:54:30,404 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 08:54:32,405 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 08:54:44,260 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 08:54:45,271 login_page.py[line:107] INFO login success!
+2021-11-16 08:54:45,271 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-16 08:54:49,733 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-16 08:54:50,711 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-16 08:54:50,711 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/imageSearch
+2021-11-16 08:54:51,318 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-16 08:54:52,701 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-16 08:54:53,990 Home_page.py[line:41] INFO ====Enter search content:心理学====
+2021-11-16 08:54:53,990 common_fun.py[line:136] INFO get 心理学 screenshot
+2021-11-16 08:54:54,605 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-16 08:54:54,769 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-16 08:54:54,769 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-16 08:54:55,384 common_fun.py[line:72] INFO SwipeLeft
+2021-11-16 08:54:56,736 Home_page.py[line:53] INFO =====Swipe left:1次=====
+2021-11-16 08:54:58,736 common_fun.py[line:72] INFO SwipeLeft
+2021-11-16 08:55:00,193 Home_page.py[line:53] INFO =====Swipe left:2次=====
+2021-11-16 08:55:02,194 common_fun.py[line:82] INFO SwipeRight
+2021-11-16 08:55:03,597 Home_page.py[line:57] INFO =====Swipe right:1次=====
+2021-11-16 08:55:05,598 common_fun.py[line:136] INFO get Swipe right1次 screenshot
+2021-11-16 08:55:06,337 common_fun.py[line:82] INFO SwipeRight
+2021-11-16 08:55:07,775 Home_page.py[line:57] INFO =====Swipe right:2次=====
+2021-11-16 08:55:09,775 common_fun.py[line:136] INFO get Swipe right2次 screenshot
+2021-11-16 08:55:10,720 common_fun.py[line:92] INFO  SwipeUp
+2021-11-16 08:55:12,176 Home_page.py[line:62] INFO =====Swipe Up:1次=====
+2021-11-16 08:55:13,177 common_fun.py[line:136] INFO get Swipe Up1次 screenshot
+2021-11-16 08:55:14,211 common_fun.py[line:92] INFO  SwipeUp
+2021-11-16 08:55:15,572 Home_page.py[line:62] INFO =====Swipe Up:2次=====
+2021-11-16 08:55:16,573 common_fun.py[line:136] INFO get Swipe Up2次 screenshot
+2021-11-16 08:55:17,558 common_fun.py[line:102] INFO  SwipeDown
+2021-11-16 08:55:18,957 Home_page.py[line:67] INFO =====Swipe Down1次=====
+2021-11-16 08:55:19,957 common_fun.py[line:136] INFO get Swipe Down1次 screenshot
+2021-11-16 08:55:21,072 common_fun.py[line:102] INFO  SwipeDown
+2021-11-16 08:55:22,451 Home_page.py[line:67] INFO =====Swipe Down2次=====
+2021-11-16 08:55:23,452 common_fun.py[line:136] INFO get Swipe Down2次 screenshot
+2021-11-16 08:55:24,417 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-16 08:55:24,618 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-16 08:55:24,618 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-16 08:55:24,790 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-16 08:55:24,791 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-16 08:55:25,495 myunit.py[line:11] INFO ====setup====
+2021-11-16 08:55:25,498 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-16 08:55:36,495 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-16 08:55:36,501 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-16 08:55:36,501 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-16 08:55:41,973 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-16 08:55:47,153 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-16 08:55:55,706 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-16 08:55:55,706 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-16 08:55:55,943 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-16 08:55:55,943 login_page.py[line:63] INFO username is:13632721415
+2021-11-16 08:55:55,943 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-16 08:55:57,088 login_page.py[line:65] INFO ========enter password========
+2021-11-16 08:55:57,088 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-16 08:55:57,088 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-16 08:55:57,698 login_page.py[line:68] INFO ========Check_button========
+2021-11-16 08:55:57,698 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-16 08:55:58,365 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-16 08:55:58,963 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 08:56:00,963 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 08:56:12,571 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 08:56:13,478 login_page.py[line:107] INFO login success!
+2021-11-16 08:56:13,479 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-16 08:56:17,543 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-16 08:56:36,994 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-16 08:56:37,753 myunit.py[line:11] INFO ====setup====
+2021-11-16 08:56:37,756 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-16 08:56:47,663 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-16 08:56:47,669 test_login.py[line:12] INFO ==== test_login ：13632721415 ====
+2021-11-16 08:56:47,669 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-16 08:56:47,705 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-16 08:56:53,155 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-16 08:56:58,355 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-16 08:57:06,454 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-16 08:57:06,454 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-16 08:57:06,642 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-16 08:57:06,642 login_page.py[line:63] INFO username is:13632721415
+2021-11-16 08:57:06,642 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-16 08:57:07,817 login_page.py[line:65] INFO ========enter password========
+2021-11-16 08:57:07,818 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-16 08:57:07,818 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-16 08:57:08,903 login_page.py[line:68] INFO ========Check_button========
+2021-11-16 08:57:08,903 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-16 08:57:09,482 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-16 08:57:10,080 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 08:57:12,081 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 08:57:24,231 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 08:57:25,181 login_page.py[line:107] INFO login success!
+2021-11-16 08:57:25,181 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-16 08:57:29,189 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 08:57:31,190 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 08:57:42,214 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 08:57:43,094 login_page.py[line:107] INFO login success!
+2021-11-16 08:57:43,094 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-16 08:57:47,096 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-16 08:57:47,842 myunit.py[line:11] INFO ====setup====
+2021-11-16 08:57:47,845 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-16 08:57:57,850 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-16 08:57:57,856 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-16 08:57:57,856 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-16 08:57:57,857 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-16 08:58:03,325 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-16 08:58:08,510 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-16 08:58:16,880 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-16 08:58:16,880 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-16 08:58:17,047 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-16 08:58:17,047 login_page.py[line:63] INFO username is:5555
+2021-11-16 08:58:17,047 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-16 08:58:18,202 login_page.py[line:65] INFO ========enter password========
+2021-11-16 08:58:18,202 login_page.py[line:66] INFO password is:222222
+2021-11-16 08:58:18,202 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-16 08:58:19,289 login_page.py[line:68] INFO ========Check_button========
+2021-11-16 08:58:19,290 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-16 08:58:19,890 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-16 08:58:20,483 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 08:58:22,483 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 08:58:33,821 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 08:58:52,644 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-16 08:58:52,644 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-16 08:58:54,803 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 08:58:56,803 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 08:59:07,811 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 08:59:26,184 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-16 08:59:26,184 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-16 08:59:28,356 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-16 08:59:29,080 myunit.py[line:11] INFO ====setup====
+2021-11-16 08:59:29,082 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-16 08:59:39,072 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-16 08:59:39,079 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-16 08:59:39,079 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-16 08:59:39,080 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-16 08:59:44,572 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-16 08:59:49,742 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-16 08:59:58,309 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-16 08:59:58,309 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-16 08:59:58,529 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-16 08:59:58,529 login_page.py[line:63] INFO username is:3333
+2021-11-16 08:59:58,529 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-16 08:59:59,675 login_page.py[line:65] INFO ========enter password========
+2021-11-16 08:59:59,675 login_page.py[line:66] INFO password is:4444
+2021-11-16 08:59:59,676 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-16 09:00:00,290 login_page.py[line:68] INFO ========Check_button========
+2021-11-16 09:00:00,290 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-16 09:00:00,869 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-16 09:00:01,483 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 09:00:03,484 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 09:00:14,834 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 09:00:33,612 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-16 09:00:33,612 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-16 09:00:34,751 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 09:00:36,752 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 09:00:47,925 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 09:01:06,265 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-16 09:01:06,265 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-16 09:01:08,368 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-16 09:01:09,261 myunit.py[line:11] INFO ====setup====
+2021-11-16 09:01:09,263 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-16 09:01:19,516 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-16 09:01:19,521 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-16 09:01:19,522 test_login.py[line:36] INFO ==== test_login ：13632721415 ====
+2021-11-16 09:01:19,522 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-16 09:01:19,522 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-16 09:01:25,022 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-16 09:01:30,238 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-16 09:01:38,781 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-16 09:01:38,781 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-16 09:01:39,010 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-16 09:01:39,010 login_page.py[line:63] INFO username is:13632721415
+2021-11-16 09:01:39,010 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-16 09:01:40,161 login_page.py[line:65] INFO ========enter password========
+2021-11-16 09:01:40,161 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-16 09:01:40,161 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-16 09:01:41,272 login_page.py[line:68] INFO ========Check_button========
+2021-11-16 09:01:41,273 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-16 09:01:41,849 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-16 09:01:42,442 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-16 09:01:44,443 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-16 09:01:55,479 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 09:01:56,561 login_page.py[line:107] INFO login success!
+2021-11-16 09:01:56,561 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-16 09:02:00,593 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-16 09:02:01,709 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/usercenter_setting
+2021-11-16 09:02:02,379 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/setting_logout_text
+2021-11-16 09:02:03,382 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/tip_commit
+2021-11-16 09:02:04,631 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='未登录']
+2021-11-16 09:02:07,933 login_page.py[line:89] INFO 用户登出成功
+2021-11-16 09:02:07,933 common_fun.py[line:136] INFO get 用户登出录成功 screenshot
+2021-11-16 09:02:08,712 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-17 08:56:46,665 run.py[line:41] INFO start run test case
+2021-11-17 08:56:46,668 myunit.py[line:11] INFO ====setup====
+2021-11-17 08:56:46,671 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-17 08:57:01,057 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-17 08:57:01,063 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-17 08:57:01,063 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-17 08:57:06,539 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-17 08:57:11,733 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-17 08:57:20,285 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-17 08:57:20,285 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-17 08:57:20,529 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-17 08:57:20,529 login_page.py[line:63] INFO username is:13632721415
+2021-11-17 08:57:20,530 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-17 08:57:21,693 login_page.py[line:65] INFO ========enter password========
+2021-11-17 08:57:21,693 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-17 08:57:21,693 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-17 08:57:22,295 login_page.py[line:68] INFO ========Check_button========
+2021-11-17 08:57:22,295 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-17 08:57:22,884 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-17 08:57:23,485 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 08:57:25,485 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 08:57:36,831 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 08:57:37,960 login_page.py[line:107] INFO login success!
+2021-11-17 08:57:37,960 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-17 08:57:42,636 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-17 08:57:44,047 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-17 08:57:44,048 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/imageSearch
+2021-11-17 08:57:44,176 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-17 08:57:45,586 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-17 08:57:46,898 Home_page.py[line:41] INFO ====Enter search content:心理学====
+2021-11-17 08:57:46,898 common_fun.py[line:136] INFO get 心理学 screenshot
+2021-11-17 08:57:47,513 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-17 08:57:47,730 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-17 08:57:47,730 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-17 08:57:48,342 common_fun.py[line:72] INFO SwipeLeft
+2021-11-17 08:57:49,681 Home_page.py[line:53] INFO =====Swipe left:1次=====
+2021-11-17 08:57:51,681 common_fun.py[line:72] INFO SwipeLeft
+2021-11-17 08:57:53,047 Home_page.py[line:53] INFO =====Swipe left:2次=====
+2021-11-17 08:57:55,047 common_fun.py[line:82] INFO SwipeRight
+2021-11-17 08:57:56,413 Home_page.py[line:57] INFO =====Swipe right:1次=====
+2021-11-17 08:57:58,413 common_fun.py[line:136] INFO get Swipe right1次 screenshot
+2021-11-17 08:57:59,171 common_fun.py[line:82] INFO SwipeRight
+2021-11-17 08:58:00,575 Home_page.py[line:57] INFO =====Swipe right:2次=====
+2021-11-17 08:58:02,575 common_fun.py[line:136] INFO get Swipe right2次 screenshot
+2021-11-17 08:58:03,579 common_fun.py[line:92] INFO  SwipeUp
+2021-11-17 08:58:05,002 Home_page.py[line:62] INFO =====Swipe Up:1次=====
+2021-11-17 08:58:06,002 common_fun.py[line:136] INFO get Swipe Up1次 screenshot
+2021-11-17 08:58:07,092 common_fun.py[line:92] INFO  SwipeUp
+2021-11-17 08:58:08,517 Home_page.py[line:62] INFO =====Swipe Up:2次=====
+2021-11-17 08:58:09,517 common_fun.py[line:136] INFO get Swipe Up2次 screenshot
+2021-11-17 08:58:10,496 common_fun.py[line:102] INFO  SwipeDown
+2021-11-17 08:58:11,912 Home_page.py[line:67] INFO =====Swipe Down1次=====
+2021-11-17 08:58:12,914 common_fun.py[line:136] INFO get Swipe Down1次 screenshot
+2021-11-17 08:58:14,025 common_fun.py[line:102] INFO  SwipeDown
+2021-11-17 08:58:15,436 Home_page.py[line:67] INFO =====Swipe Down2次=====
+2021-11-17 08:58:16,437 common_fun.py[line:136] INFO get Swipe Down2次 screenshot
+2021-11-17 08:58:17,426 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-17 08:58:17,631 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-17 08:58:17,631 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-17 08:58:17,801 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-17 08:58:17,801 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-17 08:58:18,635 myunit.py[line:11] INFO ====setup====
+2021-11-17 08:58:18,637 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-17 08:58:30,883 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-17 08:58:30,885 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-17 08:58:30,885 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-17 08:58:36,364 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-17 08:58:41,588 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-17 08:58:50,058 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-17 08:58:50,058 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-17 08:58:50,253 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-17 08:58:50,253 login_page.py[line:63] INFO username is:13632721415
+2021-11-17 08:58:50,253 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-17 08:58:51,838 login_page.py[line:65] INFO ========enter password========
+2021-11-17 08:58:51,838 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-17 08:58:51,838 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-17 08:58:52,929 login_page.py[line:68] INFO ========Check_button========
+2021-11-17 08:58:52,929 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-17 08:58:53,509 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-17 08:58:54,103 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 08:58:56,103 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 08:59:08,073 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 08:59:09,146 login_page.py[line:107] INFO login success!
+2021-11-17 08:59:09,146 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-17 08:59:13,304 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-17 08:59:23,463 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-17 08:59:24,328 myunit.py[line:11] INFO ====setup====
+2021-11-17 08:59:24,330 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-17 08:59:35,413 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-17 08:59:35,415 test_login.py[line:12] INFO ==== test_login ：13632721415 ====
+2021-11-17 08:59:35,415 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-17 08:59:35,447 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-17 08:59:40,921 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-17 08:59:46,089 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-17 08:59:54,566 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-17 08:59:54,566 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-17 08:59:54,774 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-17 08:59:54,774 login_page.py[line:63] INFO username is:13632721415
+2021-11-17 08:59:54,774 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-17 08:59:55,928 login_page.py[line:65] INFO ========enter password========
+2021-11-17 08:59:55,928 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-17 08:59:55,928 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-17 08:59:56,527 login_page.py[line:68] INFO ========Check_button========
+2021-11-17 08:59:56,527 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-17 08:59:57,116 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-17 08:59:58,281 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:00:00,281 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:00:12,861 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:00:14,006 login_page.py[line:107] INFO login success!
+2021-11-17 09:00:14,006 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-17 09:00:18,138 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:00:20,139 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:00:32,335 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:00:33,399 login_page.py[line:107] INFO login success!
+2021-11-17 09:00:33,399 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-17 09:00:37,521 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-17 09:00:38,358 myunit.py[line:11] INFO ====setup====
+2021-11-17 09:00:38,361 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-17 09:00:49,406 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-17 09:00:49,409 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-17 09:00:49,409 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-17 09:00:49,410 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-17 09:00:54,903 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-17 09:01:00,070 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-17 09:01:08,510 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-17 09:01:08,510 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-17 09:01:08,709 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-17 09:01:08,709 login_page.py[line:63] INFO username is:5555
+2021-11-17 09:01:08,710 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-17 09:01:09,850 login_page.py[line:65] INFO ========enter password========
+2021-11-17 09:01:09,850 login_page.py[line:66] INFO password is:222222
+2021-11-17 09:01:09,850 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-17 09:01:10,953 login_page.py[line:68] INFO ========Check_button========
+2021-11-17 09:01:10,953 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-17 09:01:11,529 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-17 09:01:12,112 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:01:14,112 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:01:25,391 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:01:43,996 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-17 09:01:43,996 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-17 09:01:46,118 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:01:48,119 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:01:59,272 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:02:17,472 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-17 09:02:17,472 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-17 09:02:19,653 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-17 09:02:20,698 myunit.py[line:11] INFO ====setup====
+2021-11-17 09:02:20,700 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-17 09:02:31,949 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-17 09:02:31,953 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-17 09:02:31,954 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-17 09:02:31,954 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-17 09:02:37,435 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-17 09:02:42,621 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-17 09:02:51,084 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-17 09:02:51,085 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-17 09:02:51,307 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-17 09:02:51,307 login_page.py[line:63] INFO username is:3333
+2021-11-17 09:02:51,307 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-17 09:02:52,455 login_page.py[line:65] INFO ========enter password========
+2021-11-17 09:02:52,455 login_page.py[line:66] INFO password is:4444
+2021-11-17 09:02:52,455 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-17 09:02:53,060 login_page.py[line:68] INFO ========Check_button========
+2021-11-17 09:02:53,060 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-17 09:02:53,646 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-17 09:02:54,240 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:02:56,240 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:03:07,323 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:03:25,960 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-17 09:03:25,960 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-17 09:03:27,245 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:03:29,245 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:03:40,406 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:03:58,657 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-17 09:03:58,657 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-17 09:04:00,789 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-17 09:04:01,687 myunit.py[line:11] INFO ====setup====
+2021-11-17 09:04:01,689 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-17 09:04:13,017 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-17 09:04:13,019 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-17 09:04:13,019 test_login.py[line:36] INFO ==== test_login ：13632721415 ====
+2021-11-17 09:04:13,020 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-17 09:04:13,020 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-17 09:04:18,517 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-17 09:04:23,718 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-17 09:04:32,616 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-17 09:04:32,616 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-17 09:04:32,809 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-17 09:04:32,809 login_page.py[line:63] INFO username is:13632721415
+2021-11-17 09:04:32,809 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-17 09:04:33,959 login_page.py[line:65] INFO ========enter password========
+2021-11-17 09:04:33,959 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-17 09:04:33,959 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-17 09:04:34,562 login_page.py[line:68] INFO ========Check_button========
+2021-11-17 09:04:34,562 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-17 09:04:35,145 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-17 09:04:35,745 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-17 09:04:37,746 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-17 09:04:49,366 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:04:50,419 login_page.py[line:107] INFO login success!
+2021-11-17 09:04:50,419 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-17 09:04:54,565 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-17 09:04:55,734 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/usercenter_setting
+2021-11-17 09:04:56,402 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/setting_logout_text
+2021-11-17 09:04:58,342 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/tip_commit
+2021-11-17 09:04:59,107 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='未登录']
+2021-11-17 09:05:02,060 login_page.py[line:89] INFO 用户登出成功
+2021-11-17 09:05:02,060 common_fun.py[line:136] INFO get 用户登出录成功 screenshot
+2021-11-17 09:05:02,866 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-25 17:10:39,626 run.py[line:41] INFO start run test case
+2021-11-25 17:10:39,633 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:10:39,635 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:11:06,439 run.py[line:41] INFO start run test case
+2021-11-25 17:11:06,439 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:11:06,441 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:11:20,068 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-25 17:11:20,076 test_ChangeAvatar_search_slide.py[line:18] INFO ====Search_Jump====
+2021-11-25 17:11:20,077 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-25 17:11:25,653 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-25 17:11:30,829 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-25 17:11:39,393 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-25 17:11:39,393 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-25 17:11:39,953 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-25 17:11:39,953 login_page.py[line:63] INFO username is:13632721415
+2021-11-25 17:11:39,953 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-25 17:11:41,120 login_page.py[line:65] INFO ========enter password========
+2021-11-25 17:11:41,121 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-25 17:11:41,121 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-25 17:11:42,217 login_page.py[line:68] INFO ========Check_button========
+2021-11-25 17:11:42,218 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-25 17:11:42,813 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-25 17:11:43,407 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:11:45,409 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:11:57,568 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:11:58,948 login_page.py[line:107] INFO login success!
+2021-11-25 17:11:58,948 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-25 17:12:03,311 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/mainactivity_button_calendar
+2021-11-25 17:12:05,469 Home_page.py[line:38] INFO ====My page returns to the search page====
+2021-11-25 17:12:05,469 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/imageSearch
+2021-11-25 17:12:05,691 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-25 17:12:06,949 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/customsearchview_contentedittext
+2021-11-25 17:12:08,255 Home_page.py[line:41] INFO ====Enter search content:心理学====
+2021-11-25 17:12:08,256 common_fun.py[line:136] INFO get 心理学 screenshot
+2021-11-25 17:12:08,867 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-25 17:12:09,070 Home_page.py[line:44] INFO ====Search content succeeded===
+2021-11-25 17:12:09,070 common_fun.py[line:136] INFO get Search content succeeded screenshot
+2021-11-25 17:12:09,685 common_fun.py[line:72] INFO SwipeLeft
+2021-11-25 17:12:11,044 Home_page.py[line:53] INFO =====Swipe left:1次=====
+2021-11-25 17:12:13,044 common_fun.py[line:72] INFO SwipeLeft
+2021-11-25 17:12:14,403 Home_page.py[line:53] INFO =====Swipe left:2次=====
+2021-11-25 17:12:16,404 common_fun.py[line:82] INFO SwipeRight
+2021-11-25 17:12:17,881 Home_page.py[line:57] INFO =====Swipe right:1次=====
+2021-11-25 17:12:19,882 common_fun.py[line:136] INFO get Swipe right1次 screenshot
+2021-11-25 17:12:20,678 common_fun.py[line:82] INFO SwipeRight
+2021-11-25 17:12:22,175 Home_page.py[line:57] INFO =====Swipe right:2次=====
+2021-11-25 17:12:24,176 common_fun.py[line:136] INFO get Swipe right2次 screenshot
+2021-11-25 17:12:25,257 common_fun.py[line:92] INFO  SwipeUp
+2021-11-25 17:12:26,698 Home_page.py[line:62] INFO =====Swipe Up:1次=====
+2021-11-25 17:12:27,699 common_fun.py[line:136] INFO get Swipe Up1次 screenshot
+2021-11-25 17:12:28,791 common_fun.py[line:92] INFO  SwipeUp
+2021-11-25 17:12:30,178 Home_page.py[line:62] INFO =====Swipe Up:2次=====
+2021-11-25 17:12:31,179 common_fun.py[line:136] INFO get Swipe Up2次 screenshot
+2021-11-25 17:12:32,129 common_fun.py[line:102] INFO  SwipeDown
+2021-11-25 17:12:33,492 Home_page.py[line:67] INFO =====Swipe Down1次=====
+2021-11-25 17:12:34,492 common_fun.py[line:136] INFO get Swipe Down1次 screenshot
+2021-11-25 17:12:35,574 common_fun.py[line:102] INFO  SwipeDown
+2021-11-25 17:12:37,018 Home_page.py[line:67] INFO =====Swipe Down2次=====
+2021-11-25 17:12:38,018 common_fun.py[line:136] INFO get Swipe Down2次 screenshot
+2021-11-25 17:12:39,110 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-25 17:12:39,283 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-25 17:12:39,283 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='搜索']
+2021-11-25 17:12:39,423 Home_page.py[line:75] INFO 校验元素成功！:('xpath', "//*[@text='搜索']")
+2021-11-25 17:12:39,424 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-25 17:12:40,092 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:12:40,094 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:12:49,935 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-25 17:12:49,940 test_ChangeAvatar_search_slide.py[line:11] INFO ====Slide_Test  ====
+2021-11-25 17:12:49,940 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-25 17:12:55,420 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-25 17:13:00,637 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-25 17:13:09,113 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-25 17:13:09,114 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-25 17:13:09,319 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-25 17:13:09,319 login_page.py[line:63] INFO username is:13632721415
+2021-11-25 17:13:09,320 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-25 17:13:10,493 login_page.py[line:65] INFO ========enter password========
+2021-11-25 17:13:10,493 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-25 17:13:10,493 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-25 17:13:11,089 login_page.py[line:68] INFO ========Check_button========
+2021-11-25 17:13:11,089 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-25 17:13:11,681 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-25 17:13:12,239 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:13:14,239 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:13:25,600 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:13:26,566 login_page.py[line:107] INFO login success!
+2021-11-25 17:13:26,566 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-25 17:13:30,585 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/activity_usercenter_userheader
+2021-11-25 17:13:49,247 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-25 17:13:49,994 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:13:49,996 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:13:59,827 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-25 17:13:59,834 test_login.py[line:12] INFO ==== test_login ：13632721415 ====
+2021-11-25 17:13:59,834 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-25 17:13:59,878 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-25 17:14:05,323 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-25 17:14:10,495 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-25 17:14:19,158 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-25 17:14:19,158 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-25 17:14:19,445 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-25 17:14:19,445 login_page.py[line:63] INFO username is:13632721415
+2021-11-25 17:14:19,445 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-25 17:14:20,110 login_page.py[line:65] INFO ========enter password========
+2021-11-25 17:14:20,111 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-25 17:14:20,111 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-25 17:14:20,725 login_page.py[line:68] INFO ========Check_button========
+2021-11-25 17:14:20,726 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-25 17:14:21,300 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-25 17:14:21,884 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:14:23,885 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:14:34,994 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:14:35,817 login_page.py[line:107] INFO login success!
+2021-11-25 17:14:35,817 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-25 17:14:39,948 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:14:41,948 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:14:53,192 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:14:54,184 login_page.py[line:107] INFO login success!
+2021-11-25 17:14:54,185 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-25 17:14:58,182 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-25 17:14:58,903 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:14:58,905 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:15:08,667 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-25 17:15:08,672 test_login.py[line:20] INFO ==== test_login :5555 ====
+2021-11-25 17:15:08,673 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-25 17:15:08,673 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-25 17:15:14,161 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-25 17:15:19,324 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-25 17:15:27,829 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-25 17:15:27,829 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-25 17:15:28,057 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-25 17:15:28,057 login_page.py[line:63] INFO username is:5555
+2021-11-25 17:15:28,057 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-25 17:15:28,744 login_page.py[line:65] INFO ========enter password========
+2021-11-25 17:15:28,744 login_page.py[line:66] INFO password is:222222
+2021-11-25 17:15:28,744 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-25 17:15:29,883 login_page.py[line:68] INFO ========Check_button========
+2021-11-25 17:15:29,883 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-25 17:15:30,473 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-25 17:15:31,071 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:15:33,071 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:15:44,426 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:16:03,483 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-25 17:16:03,483 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-25 17:16:05,624 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:16:07,624 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:16:18,803 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:16:37,127 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-25 17:16:37,127 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-25 17:16:39,375 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-25 17:16:40,086 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:16:40,088 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:16:49,945 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-25 17:16:49,952 test_login.py[line:28] INFO ==== test_login : 3333 ====
+2021-11-25 17:16:49,952 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-25 17:16:49,952 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-25 17:16:55,408 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-25 17:17:00,575 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-25 17:17:09,069 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-25 17:17:09,069 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-25 17:17:09,262 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-25 17:17:09,262 login_page.py[line:63] INFO username is:3333
+2021-11-25 17:17:09,263 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-25 17:17:09,938 login_page.py[line:65] INFO ========enter password========
+2021-11-25 17:17:09,938 login_page.py[line:66] INFO password is:4444
+2021-11-25 17:17:09,938 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-25 17:17:11,023 login_page.py[line:68] INFO ========Check_button========
+2021-11-25 17:17:11,023 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-25 17:17:11,601 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-25 17:17:12,184 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:17:14,185 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:17:25,573 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:17:44,332 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-25 17:17:44,332 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-25 17:17:46,445 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:17:48,445 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:17:59,668 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:18:18,012 login_page.py[line:103] ERROR login_fail!!!!
+2021-11-25 17:18:18,012 common_fun.py[line:136] INFO get login_fail screenshot
+2021-11-25 17:18:20,202 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-25 17:18:20,889 myunit.py[line:11] INFO ====setup====
+2021-11-25 17:18:20,891 desired_cadps.py[line:42] INFO ....Start App.....
+2021-11-25 17:18:30,748 desired_cadps.py[line:44] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}
+2021-11-25 17:18:30,754 test_login.py[line:35] INFO ==== test_logout ====
+2021-11-25 17:18:30,754 test_login.py[line:36] INFO ==== test_login ：13632721415 ====
+2021-11-25 17:18:30,754 common_fun.py[line:162] INFO =====get_scv_data======
+2021-11-25 17:18:30,755 common_fun.py[line:31] INFO ============check Agree_button=============
+2021-11-25 17:18:36,225 common_fun.py[line:39] INFO ===========check_known_button===============:
+2021-11-25 17:18:41,458 common_fun.py[line:47] INFO =============check Experiencing_button=============:
+2021-11-25 17:18:49,939 common_fun.py[line:51] INFO Message: An element could not be located on the page using the given search parameters.
+
+2021-11-25 17:18:49,939 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='密码登录']
+2021-11-25 17:18:50,128 login_page.py[line:62] INFO ========Enter the account number========
+2021-11-25 17:18:50,128 login_page.py[line:63] INFO username is:13632721415
+2021-11-25 17:18:50,128 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginEmailEdittext
+2021-11-25 17:18:50,826 login_page.py[line:65] INFO ========enter password========
+2021-11-25 17:18:50,826 login_page.py[line:66] INFO password is:Chuiling@950720
+2021-11-25 17:18:50,826 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginPasswordEdittext
+2021-11-25 17:18:51,434 login_page.py[line:68] INFO ========Check_button========
+2021-11-25 17:18:51,434 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginTreatyCheckboxPassword
+2021-11-25 17:18:52,019 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/loginLoginBtn
+2021-11-25 17:18:52,610 login_page.py[line:95] INFO =====Check_Loginstatus===
+2021-11-25 17:18:54,610 common_fun.py[line:148] INFO ====check_close_button====
+2021-11-25 17:19:06,081 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:19:07,067 login_page.py[line:107] INFO login success!
+2021-11-25 17:19:07,067 common_fun.py[line:136] INFO get login_success screenshot
+2021-11-25 17:19:11,233 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='我的']
+2021-11-25 17:19:12,281 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/usercenter_setting
+2021-11-25 17:19:12,944 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/setting_logout_text
+2021-11-25 17:19:14,787 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》id,value值-》com.tal.kaoyan:id/tip_commit
+2021-11-25 17:19:14,906 baseview.py[line:35] INFO 正在定位元素信息：定位方式-》xpath,value值-》//*[@text='未登录']
+2021-11-25 17:19:18,705 login_page.py[line:89] INFO 用户登出成功
+2021-11-25 17:19:18,705 common_fun.py[line:136] INFO get 用户登出录成功 screenshot
+2021-11-25 17:19:19,498 myunit.py[line:15] INFO ==== TearDowm =====
+2021-11-26 09:32:25,996 desired_cadps.py[line:49] INFO ....Start App.....
+2021-11-26 09:32:39,333 desired_cadps.py[line:51] INFO {'platformName': 'Android', 'platformVersion': '9.0.1', 'deviceName': 'Honor 10life', 'udid': '79UNW19521004906', 'noReset': False, 'unicodeKeyboard': True, 'resetKeyboard': True, 'appPackage': 'com.tal.kaoyan', 'appActivity': 'com.tal.kaoyan.ui.activity.SplashActivity'}

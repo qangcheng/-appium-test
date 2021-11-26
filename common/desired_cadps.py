@@ -7,23 +7,26 @@ yaml封装后读取config/capbilty.yaml文件已写入数据
 
 """
 from appium import webdriver
-import yaml
 import logging
 import logging.config
 import time
 import os
+from kyb_testproject.common.resd_yaml import readyml
 
 # 读取log.conf中的配置表
 CON_LOG = '../config/log.conf'
 logging.config.fileConfig(CON_LOG)
 logging = logging.getLogger()
 
+# yamlpath
+a = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+capbilly_path = os.path.join(a, "config", "capbillty.yaml")
+# readyml(capbilly_path)
+
 
 def desired_conf():
     # 读取yaml配置表中的配置,不写close,也不会出现文件未释放的问题
-    with open(r"D:\codetest\kyb_testproject\config\capbillty.yaml", 'r', encoding="UTF-8") as file:
-        data = yaml.load(file, Loader=yaml.FullLoader)
-
+    data = readyml(capbilly_path)
     desired_caps = {}
     desired_caps['platformName'] = data['platformName']
     desired_caps['platformVersion'] = data['platformVersion']

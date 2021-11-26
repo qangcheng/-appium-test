@@ -4,10 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-def Schamea_Jump(link):
-    return os.popen("adb -d shell am start -a android.intent.action.VIEW -d" + link)
-
-
 class BaseView(object):
     def __init__(self, driver):
         self.driver = driver
@@ -32,7 +28,7 @@ class BaseView(object):
             return ele
 
     # 单个元素等待方法封装，调用这个方法可以返回定位元素，比sleep和隐示等待更加稳定
-    def findElement(self, locator):
+    def findElement(self, locator, *args, **kwargs):
         if not isinstance(locator, tuple):
             logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
         else:
@@ -85,6 +81,8 @@ class BaseView(object):
         return print(self.driver.contexts)
 
     # Schamea跳转
+    def Schamea_Jump(self, link):
+        return os.popen("adb -d shell am start -a android.intent.action.VIEW -d" + link)
 
 
 if __name__ == '__main__':
