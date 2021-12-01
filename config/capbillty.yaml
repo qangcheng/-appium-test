@@ -1,13 +1,15 @@
 platformName: Android
-platformVersion: 9.0.1
+platformVersion: '10'
 deviceName: Honor 10life
 udid: 79UNW19521004906
 noReset: False
-unicodeKeyboard: True
-resetKeyboard: True
+resetKeyboard: true
 appPackage: com.tal.kaoyan
 appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+unicodeKeyboard: true
 ip: 127.0.0.1
 port: 4723
+
+
 
 

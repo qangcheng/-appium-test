@@ -91,6 +91,7 @@ class personal_information_page(login):
     def Change_Avatar_Process(self, username, psw):
         """进入跟换头像入口"""
         self.psw_login(username, psw)
+        self.click(self.my_button)
         self.Click_Avatar()
         logging.info("====Click on the avatar entry successfully=====")
         self.Click_Change_Avatar()
@@ -130,7 +131,6 @@ class personal_information_page(login):
             self.findElement(self.Back_button)
             logging.info("====Photo verification succeeded:更换头像成功====")
             self.getScreenShot("Photo verification succeeded")
-            logging.info("更换头像成功")
             return True
         except NoSuchElementException:
             logging.info("====Failed to change avatar====")

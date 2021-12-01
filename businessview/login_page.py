@@ -3,7 +3,7 @@
 """
 
 from kyb_testproject.common.desired_cadps import desired_conf
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
 import logging
 from selenium.webdriver.common.by import By
 from kyb_testproject.common.common_fun import Common
@@ -68,7 +68,7 @@ class login(Common):
         logging.info("========Check_button========")
         self.Click_Agreement_button()
         self.Click_login_button()
-        self.check_loginStatus()
+        # self.check_loginStatus()
 
     # 用户退出登录相关流程
     def User_logout(self):
@@ -81,7 +81,7 @@ class login(Common):
     def Check_Logout_Operation(self):
         try:
             self.findElement(self.Not_logged)
-        except TimeoutException:
+        except NoSuchElementException:
             logging.info("用户登出失败")
             self.getScreenShot("用户登出失败")
             return False
@@ -97,11 +97,9 @@ class login(Common):
         time.sleep(3)
         try:
             # 调用原生方法和封装方法区别体现
-            # self.driver.find_element(*self.my_button).click()
-            self.findElement(self.my_button)
-        except TimeoutException:
-            logging.error("login_fail!!!!")
-            self.getScreenShot('login_fail')
+            self.driver.find_element(*self.my_button).click()
+        except:
+            logging.info("未登录成功：未找到的元素my_button：{}".format(self.my_button))
             return False
         else:
             logging.info("login success!")

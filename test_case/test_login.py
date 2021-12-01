@@ -21,7 +21,7 @@ class TestLogin(startEnd):
         L = login(self.driver)
         data = L.Get_Scv_Data(self.csv_file, 2)
         L.psw_login(data[0], data[1])
-        self.assertTrue(L.check_loginStatus(), msg="log in fail")
+        self.assertFalse(L.check_loginStatus(), msg="log in fail")
 
     # @unittest.skip("skip  case  test_login_3")  # 跳过某条用例
     def test_login_3(self):
@@ -29,7 +29,7 @@ class TestLogin(startEnd):
         L = login(self.driver)
         data = L.Get_Scv_Data(self.csv_file, 3)
         L.psw_login(data[0], data[1])
-        self.assertTrue(L.check_loginStatus(), msg="log in fail")
+        self.assertFalse(L.check_loginStatus(), msg="log in fail")
 
     def test_logout_4(self):
         logging.info("==== test_logout ====")

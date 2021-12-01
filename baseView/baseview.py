@@ -2,6 +2,7 @@ import logging
 import os
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
 
 
 class BaseView(object):
@@ -19,18 +20,20 @@ class BaseView(object):
         return self.driver.find_elements(*loc)
 
     # 新的定位方法,与findElement方法返回一致
-    def findElementNew(self, locator):
+    def findElementNew(self, locator, ignored_exceptions=NoSuchElementException):
         if not isinstance(locator, tuple):
             logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
+            raise ignored_exceptions
         else:
             logging.info("正在点各位元素信息：定位方式-》%s,value值-》%s" % (locator[0], locator[1]))
             ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_element(*locator))
             return ele
 
     # 单个元素等待方法封装，调用这个方法可以返回定位元素，比sleep和隐示等待更加稳定
-    def findElement(self, locator, *args, **kwargs):
+    def findElement(self, locator):
         if not isinstance(locator, tuple):
             logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
+
         else:
             logging.info("正在定位元素信息：定位方式-》%s,value值-》%s" % (locator[0], locator[1]))
             ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_element(*locator))

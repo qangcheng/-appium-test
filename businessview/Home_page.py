@@ -35,6 +35,7 @@ class Home_page(login):
     def Search_Shake_Case(self, username, psw, text):
         self.psw_login(username, psw)
         self.Click_Home()
+        time.sleep(2)
         logging.info("====My page returns to the search page====")
         self.Click_Search()
         self.Input_Search(text)
