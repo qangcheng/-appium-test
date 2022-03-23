@@ -2,7 +2,7 @@
 
 
 import unittest
-from kyb_testproject.common.desired_cadps import desired_conf
+from common.desired_cadps import desired_conf
 import logging
 
 
