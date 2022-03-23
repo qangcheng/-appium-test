@@ -1,11 +1,11 @@
 import logging
 import time
-from kyb_testproject.common.desired_cadps import desired_conf
-from kyb_testproject.businessview.loginview import loginview
+from common. desired_cadps import desired_conf
+from businessview.loginview import loginview
 from selenium.webdriver.common.by import By
-from kyb_testproject.baseView import baseview
+from baseView import baseview
 from selenium.common.exceptions import NoSuchElementException
-from kyb_testproject.businessview.login_page import login
+from businessview.login_page import login
 
 
 class Home_search(login, loginview):
