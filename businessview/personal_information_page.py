@@ -4,13 +4,13 @@ switchAvatarview工程的优化代码，更加优化到代码相关的各个元�
 针对个人资料页面的各个元素的入口封装，示例：更换头像流程
 """
 
-from kyb_testproject.common.desired_cadps import desired_conf
+from common.desired_cadps import desired_conf
 from selenium.common.exceptions import NoSuchElementException
 import logging
 from selenium.webdriver.common.by import By
 import time
 import random
-from kyb_testproject.businessview.login_page import login
+from businessview.login_page import login
 
 
 class personal_information_page(login):
