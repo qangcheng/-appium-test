@@ -1,5 +1,5 @@
-from kyb_testproject.common.myunit import startEnd
-from kyb_testproject.businessview.login_page import login
+from common.myunit import startEnd
+from businessview.login_page import login
 import logging
 import random
 import unittest

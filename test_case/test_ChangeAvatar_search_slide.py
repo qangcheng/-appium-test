@@ -1,9 +1,9 @@
 import time
-from kyb_testproject.common.myunit import startEnd
-from kyb_testproject.businessview.personal_information_page import personal_information_page
+from common.myunit import startEnd
+from businessview.personal_information_page import personal_information_page
 import logging
 import unittest
-from kyb_testproject.businessview.Home_page import Home_page
+from businessview.Home_page import Home_page
 
 
 class TestSlide(startEnd):

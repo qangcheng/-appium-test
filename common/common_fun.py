@@ -8,8 +8,8 @@ import time
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from kyb_testproject.baseView.baseview import BaseView
-from kyb_testproject.common.desired_cadps import desired_conf
+from baseView.baseview import BaseView
+from common.desired_cadps import desired_conf
 import csv
 
 

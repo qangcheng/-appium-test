@@ -12,7 +12,7 @@ import logging
 import logging.config
 import time
 import os
-from kyb_testproject.common.resd_yaml import readyml
+from common.resd_yaml import readyml
 
 # 读取log.conf中的配置表
 CON_LOG = '../config/log.conf'
