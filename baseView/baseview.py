@@ -3,6 +3,7 @@ import os
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
+from appium.webdriver.common.touch_action import TouchAction
 
 
 class BaseView(object):
@@ -45,8 +46,27 @@ class BaseView(object):
             logging.info('locator参数类型错误，必须传元组类型：loc=("id","value1")')
         else:
             logging.info("正在定位元素信息：定位方式-》%s,value值-》%s" % (locator[0], locator[1]))
-            ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_element(*locator))
+            ele = WebDriverWait(self.driver, self.timeout, self.t).until(lambda x: x.find_elements(*locator))
             return ele
+
+    # 获取测试APP
+    def get_pakgame(self):
+        pass
+
+    # 应用置后台操作
+    def background(self, seconds):
+        self.driver.background_app(seconds)
+
+    # 手指按压操作
+    def press(self,locator):
+        TouchAction(self.driver).press(locator).release().perform()
+
+    # 手指长按压操作
+    def long_press(self, locator, time):
+        """
+
+        """
+        TouchAction(self.driver).long_press(locator,duration=time).release().perform()
 
     # 封装input方法
     def sendKeys(self, locator, text):
@@ -70,6 +90,14 @@ class BaseView(object):
     # 滑动方法
     def swipe(self, start_x, start_y, end_x, end_y, duration):
         return self.driver.swipe(start_x, start_y, end_x, end_y, duration)
+
+    # 手指按压操作
+    def press_action(self, locator):
+        TouchAction(self.driver).press(locator).release().perform()
+
+    # 手指长按压操作
+    def long_press_action(self, locator, time):
+        TouchAction(self.driver).long_press(locator, duration=time).release().perform()
 
     # 端内切换测试平台 web&Android
     def Switch_To_Default_Content(self, platform):
