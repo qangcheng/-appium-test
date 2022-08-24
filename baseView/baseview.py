@@ -64,7 +64,6 @@ class BaseView(object):
     # 手指长按压操作
     def long_press(self, locator, time):
         """
-
         """
         TouchAction(self.driver).long_press(locator,duration=time).release().perform()
 

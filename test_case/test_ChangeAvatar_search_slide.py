@@ -1,9 +1,9 @@
 import time
 from common.myunit import startEnd
-from businessview.personal_information_page import personal_information_page
+from page.personal_information_page import personal_information_page
 import logging
 import unittest
-from businessview.Home_page import Home_page
+from page.Home_page import Home_page
 
 
 class TestSlide(startEnd):

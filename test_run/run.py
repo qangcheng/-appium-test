@@ -12,7 +12,6 @@
 
 import sys
 import os
-import retry
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 js_path = os.path.join(os.path.dirname(current_directory), "test_run", "run.py")

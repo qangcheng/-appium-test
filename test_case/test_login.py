@@ -1,5 +1,5 @@
 from common.myunit import startEnd
-from businessview.login_page import login
+from page.login_page import login
 import logging
 import random
 import unittest

@@ -1,5 +1,5 @@
 import csv
-from kyb_testproject.baseView.log import Logger
+from baseView.log import Logger
 
 
 # 读取csv文件
